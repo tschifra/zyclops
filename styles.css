@@ -858,6 +858,12 @@ code:focus-visible {
   color: var(--muted);
   margin-bottom: 25px;
 }
+.sticker-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
 .download-note {
   display: block;
   font-size: 0.625rem;
@@ -1244,6 +1250,9 @@ code:focus-visible {
     font-size: 0.8125rem;
     gap: 12px;
   }
+  .sticker-actions {
+    justify-content: flex-start;
+  }
   .footer-links {
     gap: 18px;
   }
@@ -1609,6 +1618,9 @@ code:focus-visible {
   }
   .sticker-copy .button {
     font-size: 0.9375rem;
+  }
+  .sticker-actions {
+    justify-content: center;
   }
   .sticker-wall {
     gap: 5px;

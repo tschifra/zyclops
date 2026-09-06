@@ -19,5 +19,8 @@
 | `15-moon.png` | 🌙 | Wen moon |
 | `16-hodl.png` | 🗿 | HODL |
 
-Upload via Telegram @Stickers → Create new pack → static stickers.
-Use the emoji in the table for each file. 512×512 PNG, transparent.
+Official pack short name: ZYCLOPSzec
+Link: https://t.me/addstickers/ZYCLOPSzec
+
+Publish via @Stickers → /newpack → title ZYCLOPS → upload these PNGs
+with the emoji below → /publish → short name ZYCLOPSzec exactly.

@@ -43,6 +43,7 @@ This is a static site with no build dependencies. Serve the repository using the
 - Video previews load and play only when visible, pause off-screen or in a hidden tab, and use still posters otherwise.
 - Ambient loops pause outside the viewport or in a hidden tab. Eye-test controls remain usable with reduced motion, and any active test completes when motion is paused.
 - No animation framework or new runtime dependency. Navigation and downloads work without JavaScript.
-- Three Telegram video stickers: [download ZIP](assets/zyclops-animated-stickers.zip). Each is 512 × 512, 3 seconds, 24 fps, transparent VP9 WEBM, no audio and below 256 KB. The pack still needs publishing through @Stickers.
+- Official Telegram packs (publish once via @Stickers, then the site links work): [16 stickers](https://t.me/addstickers/ZYCLOPSzec) and [3 in motion](https://t.me/addstickers/ZYCLOPSzec_motion).
+- Three Telegram video stickers: [download ZIP](assets/zyclops-animated-stickers.zip). Each is 512 × 512, 3 seconds, 24 fps, transparent VP9 WEBM, no audio and below 256 KB.
 - [Source artwork, animation method and generation prompt](assets/animated/ARTWORK.md).
 - To regenerate: install Python's Pillow, NumPy and SciPy, plus ffmpeg/ffprobe, then run `python3 scripts/render-animated-stickers.py`. On systems without macOS Impact, set `ZYCLOPS_STICKER_FONT` to a suitable installed bold display font. The site itself has no Python dependency.
