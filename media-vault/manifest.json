@@ -1,10 +1,325 @@
 {
   "schema_version": "1.0",
-  "library_version": "2026-09-06.6",
+  "library_version": "2026-09-06.7",
   "name": "ZYCLOPS media vault",
   "home": "https://zyclops.xyz/",
   "gallery": "https://zyclops.xyz/media-vault/",
   "assets": [
+    {
+      "id": "zyclops-zero-knowledge-v1",
+      "creative_id": "zero-knowledge",
+      "title": "ZERO KNOWLEDGE.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-zero-knowledge-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-zero-knowledge-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 642298,
+      "sha256": "435ddb62e70ce52171d12cfc56cc5af50f498b791cc14b747dd2a12ab2158972",
+      "thumbnail_path": "thumbs/zyclops-zero-knowledge-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-zero-knowledge-v1.jpg",
+      "captions": [
+        "finally qualified. 👁️",
+        "finally qualified. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "A deadpan ZYCLOPS wears a graduation gown over his black hoodie and proudly holds a cream diploma covered in black redaction bars.",
+      "tags": [
+        "zero-knowledge",
+        "graduation",
+        "redacted",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "zero-knowledge"
+    },
+    {
+      "id": "zyclops-seed-phrase-v1",
+      "creative_id": "seed-phrase",
+      "title": "SEED PHRASE.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-seed-phrase-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-seed-phrase-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 723821,
+      "sha256": "f024edf5679ac9e7da33002dd211b30bfc56f8cdf621eaea6afbba1dc2d1e2a2",
+      "thumbnail_path": "thumbs/zyclops-seed-phrase-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-seed-phrase-v1.jpg",
+      "captions": [
+        "he wrote it. then he redacted it. 👁️",
+        "he wrote it. then he redacted it. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS sternly writes with a gold pen on a notepad whose entire page is obscured by black redaction bars.",
+      "tags": [
+        "seed-phrase",
+        "redacted",
+        "privacy",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "seed-phrase"
+    },
+    {
+      "id": "zyclops-paper-hands-v1",
+      "creative_id": "paper-hands",
+      "title": "PAPER HANDS.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-paper-hands-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-paper-hands-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 568510,
+      "sha256": "fc5ba16eb98c5f954802400c553d45057b31902b667c5456ea48cc28c4946672",
+      "thumbnail_path": "thumbs/zyclops-paper-hands-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-paper-hands-v1.jpg",
+      "captions": [
+        "he dropped the mug. 👁️",
+        "he dropped the mug. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "A quietly devastated ZYCLOPS stares at his crumpled cream-paper hands above a shattered gold coffee mug on the floor.",
+      "tags": [
+        "paper-hands",
+        "coffee",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "paper-hands"
+    },
+    {
+      "id": "zyclops-bridge-v1",
+      "creative_id": "bridge",
+      "title": "BRIDGE.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-bridge-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-bridge-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 633936,
+      "sha256": "92176322ea8cd6dc16b971d5851ebc7e79f622ce30fd48bdda80baa00da7e259",
+      "thumbnail_path": "thumbs/zyclops-bridge-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-bridge-v1.jpg",
+      "captions": [
+        "he looked both ways. 👁️",
+        "he looked both ways. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS stands at an empty nighttime crosswalk under a gold streetlight, turning his single-eyed head to check the street.",
+      "tags": [
+        "bridge",
+        "one-eye",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "bridge"
+    },
+    {
+      "id": "zyclops-airdrop-v1",
+      "creative_id": "airdrop",
+      "title": "AIRDROP.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-airdrop-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-airdrop-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 696058,
+      "sha256": "ad45d88e8c050aff189818c4e97500077eb791c2be0f00ae6eeb83377ce83388",
+      "thumbnail_path": "thumbs/zyclops-airdrop-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-airdrop-v1.jpg",
+      "captions": [
+        "he blinked. 👁️",
+        "he blinked. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS has his single eye closed in a blink while tiny gold parachute packages land behind him, unnoticed.",
+      "tags": [
+        "airdrop",
+        "blink",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "airdrop"
+    },
+    {
+      "id": "zyclops-nfa-v1",
+      "creative_id": "nfa",
+      "title": "NFA.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-nfa-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-nfa-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 630793,
+      "sha256": "931845dfc8de818be313830d21a49e170423312912208210ca98f7e7cc10e9b9",
+      "thumbnail_path": "thumbs/zyclops-nfa-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-nfa-v1.jpg",
+      "captions": [
+        "the advice is redacted. 👁️",
+        "the advice is redacted. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "Deadpan ZYCLOPS wears a tiny gold lawyer wig and holds a cream document whose advice is fully blacked out.",
+      "tags": [
+        "nfa",
+        "redacted",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "nfa"
+    },
+    {
+      "id": "zyclops-exit-liquidity-v1",
+      "creative_id": "exit-liquidity",
+      "title": "EXIT LIQUIDITY.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-exit-liquidity-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-exit-liquidity-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 713892,
+      "sha256": "bfa87011c8d2c5de6308c14c4f996fcc0cafe1cf2de63828025c39a1f14c0b76",
+      "thumbnail_path": "thumbs/zyclops-exit-liquidity-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-exit-liquidity-v1.jpg",
+      "captions": [
+        "the door was a painting. 👁️",
+        "the door was a painting. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "A confused ZYCLOPS presses his hand against a gold exit door painted flat on a charcoal brick wall.",
+      "tags": [
+        "exit-liquidity",
+        "door",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "exit-liquidity"
+    },
+    {
+      "id": "zyclops-onchain-v1",
+      "creative_id": "onchain",
+      "title": "ONCHAIN.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-onchain-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-onchain-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 536977,
+      "sha256": "934879ca89e7f9d227299f4fdbcf2f290a0eb81c8a128e6ab1d9fffa1246f94a",
+      "thumbnail_path": "thumbs/zyclops-onchain-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-onchain-v1.jpg",
+      "captions": [
+        "he prefers the blind spot. 👁️",
+        "he prefers the blind spot. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS peers with his one gold eye from behind thick black blinds in a dark room.",
+      "tags": [
+        "onchain",
+        "privacy",
+        "blind-spot",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "onchain"
+    },
+    {
+      "id": "zyclops-bear-market-v1",
+      "creative_id": "bear-market",
+      "title": "BEAR MARKET.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-bear-market-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-bear-market-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 711701,
+      "sha256": "875e60a1d313c8b682e22c9f0b184ab2fe0a5cb411a6628aa88199986f1c5394",
+      "thumbnail_path": "thumbs/zyclops-bear-market-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-bear-market-v1.jpg",
+      "captions": [
+        "he brought a picnic. 👁️",
+        "he brought a picnic. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS calmly sets out a tiny gold picnic blanket and coffee mug in a charcoal forest as a gold bear silhouette watches.",
+      "tags": [
+        "bear-market",
+        "picnic",
+        "coffee",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "bear-market"
+    },
+    {
+      "id": "zyclops-one-more-block-v1",
+      "creative_id": "one-more-block",
+      "title": "ONE MORE BLOCK.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-one-more-block-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-one-more-block-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 618873,
+      "sha256": "d7a77ad4463d2ea5d8d4743a309da65d2b21918b3baa9e3eb801871ed12155dd",
+      "thumbnail_path": "thumbs/zyclops-one-more-block-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-one-more-block-v1.jpg",
+      "captions": [
+        "vision still buffering. 👁️",
+        "vision still buffering. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS lies under a charcoal blanket, his one eye half open toward a floating gold progress bar, with a phone face down beside the bed.",
+      "tags": [
+        "one-more-block",
+        "buffering",
+        "sleep",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 7,
+      "topic": "one-more-block"
+    },
     {
       "id": "zyclops-chart-redacted-v1",
       "creative_id": "chart-redacted",
@@ -1777,7 +2092,7 @@
   "base_url": "https://zyclops.xyz/media-vault/",
   "access": "Unlisted, publicly accessible by URL; not authenticated.",
   "counts": {
-    "images": 44,
+    "images": 54,
     "videos": 0,
     "loops": 8,
     "gif_alternates": 0,
@@ -1810,5 +2125,5 @@
     "zyclops-rain-motion-v1",
     "zyclops-sentinel-motion-v1"
   ],
-  "pack_version": 6
+  "pack_version": 7
 }

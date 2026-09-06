@@ -667,5 +667,210 @@
       "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
     ],
     "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are character and tactile 2D screenprint style references only, not edit targets. Generate the requested new scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Generate a NEW illustration using the supplied image only for ZYCLOPS mascot identity and tactile screenprint style. Preserve exactly ONE large central golden eye, wide angular black beard, bulky black/gold-clothed cyclops with sculpted gold facial edges. Match the reference's black charcoal, warm cream, metallic ochre-gold print texture, high contrast and restrained grain. Strong expressive silhouette, phone-readable visual joke. Full designed 1:1 poster, no collage, no panel grid. Put large condensed cream uppercase heading at top, a bold gold punchline below the scene, small exact footer 'ZYCLOPS · $ZYCL'. Keep ALL lettering and important anatomy within a generous 7% safe margin; a dark border of breathing room. No extra copy, no extra eyes, no promises of profit, no additional logos, no watermark.\n\nCHARACTER LOCK from references: dark charcoal ape-cyclops face with fur texture (not yellow human skin); gold metallic brow plate above the eye; wide flat mustard-gold nose; thick black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; one cream-sclera mustard-gold iris eye; black hoodie. Same face as the attached vault refs.\n\nScene: Same ZYCLOPS holds a magnifying glass over one cream classified folder stamped with thick black redaction bars. Minimal charcoal grain background. Clean simple composition — one clear joke, not a busy corkboard. Deadpan serious about a ridiculous assignment with zero progress.\n\nTop heading exact text: 'CURRENT ASSIGNMENT.'\nBottom punchline exact text: 'FIND ZATOSHI. PROGRESS: NONE.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "zero-knowledge",
+    "headline": "ZERO KNOWLEDGE.",
+    "punchline": "FINALLY QUALIFIED.",
+    "scene": "ZYCLOPS in a graduation gown over his black hoodie, holding a blank diploma covered in thick black redaction bars. Deadpan proud.",
+    "tags": [
+      "zero-knowledge",
+      "graduation",
+      "redacted",
+      "reaction"
+    ],
+    "alt": "A deadpan ZYCLOPS wears a graduation gown over his black hoodie and proudly holds a cream diploma covered in black redaction bars.",
+    "title": "ZERO KNOWLEDGE.",
+    "kind": "meme",
+    "caption": "finally qualified. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS in a graduation gown over his black hoodie, holding a blank diploma covered in thick black redaction bars. Deadpan proud.\n\nTop heading exact text: 'ZERO KNOWLEDGE.'\nBottom punchline exact text: 'FINALLY QUALIFIED.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "seed-phrase",
+    "headline": "SEED PHRASE.",
+    "punchline": "HE WROTE IT. THEN HE REDACTED IT.",
+    "scene": "ZYCLOPS at a desk writing on a notepad; the entire page is thick black redaction bars. One gold pen. Stern focus.",
+    "tags": [
+      "seed-phrase",
+      "redacted",
+      "privacy",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS sternly writes with a gold pen on a notepad whose entire page is obscured by black redaction bars.",
+    "title": "SEED PHRASE.",
+    "kind": "meme",
+    "caption": "he wrote it. then he redacted it. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS at a desk writing on a notepad; the entire page is thick black redaction bars. One gold pen. Stern focus.\n\nTop heading exact text: 'SEED PHRASE.'\nBottom punchline exact text: 'HE WROTE IT. THEN HE REDACTED IT.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "paper-hands",
+    "headline": "PAPER HANDS.",
+    "punchline": "HE DROPPED THE MUG.",
+    "scene": "ZYCLOPS stares at his open hands — they are literally made of crumpled cream paper, gold coffee mug shattered on the floor. Quietly devastated, still serious.",
+    "tags": [
+      "paper-hands",
+      "coffee",
+      "reaction"
+    ],
+    "alt": "A quietly devastated ZYCLOPS stares at his crumpled cream-paper hands above a shattered gold coffee mug on the floor.",
+    "title": "PAPER HANDS.",
+    "kind": "meme",
+    "caption": "he dropped the mug. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS stares at his open hands — they are literally made of crumpled cream paper, gold coffee mug shattered on the floor. Quietly devastated, still serious.\nBoth hands are unmistakably crumpled folded cream paper shaped like hands, not normal skin or gloves. Keep paper-hand anatomy clear and the broken gold mug visible.\n\nTop heading exact text: 'PAPER HANDS.'\nBottom punchline exact text: 'HE DROPPED THE MUG.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "bridge",
+    "headline": "BRIDGE.",
+    "punchline": "HE LOOKED BOTH WAYS.",
+    "scene": "ZYCLOPS at a dark crosswalk looking both ways with his one eye, exaggerated head turn. Empty night street, gold streetlight.",
+    "tags": [
+      "bridge",
+      "one-eye",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS stands at an empty nighttime crosswalk under a gold streetlight, turning his single-eyed head to check the street.",
+    "title": "BRIDGE.",
+    "kind": "meme",
+    "caption": "he looked both ways. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS at a dark crosswalk looking both ways with his one eye, exaggerated head turn. Empty night street, gold streetlight.\nRepresent checking the street with one exaggerated turned-head pose. One head and exactly one central eye, no ghost heads or duplicated facial features.\n\nTop heading exact text: 'BRIDGE.'\nBottom punchline exact text: 'HE LOOKED BOTH WAYS.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "airdrop",
+    "headline": "AIRDROP.",
+    "punchline": "HE BLINKED.",
+    "scene": "ZYCLOPS mid-blink (his single eye closed), tiny gold parachute packages falling past him onto the ground behind. He missed them all.",
+    "tags": [
+      "airdrop",
+      "blink",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS has his single eye closed in a blink while tiny gold parachute packages land behind him, unnoticed.",
+    "title": "AIRDROP.",
+    "kind": "meme",
+    "caption": "he blinked. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS mid-blink (his single eye closed), tiny gold parachute packages falling past him onto the ground behind. He missed them all.\nThe mascot's only eye is CLOSED mid-blink; one unmistakable curved closed eyelid beneath his usual gold brow. No visible iris in this scene.\n\nTop heading exact text: 'AIRDROP.'\nBottom punchline exact text: 'HE BLINKED.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "nfa",
+    "headline": "NFA.",
+    "punchline": "THE ADVICE IS REDACTED.",
+    "scene": "ZYCLOPS in a tiny gold lawyer wig holding a cream document; the advice section is fully black-redacted. Deadpan.",
+    "tags": [
+      "nfa",
+      "redacted",
+      "reaction"
+    ],
+    "alt": "Deadpan ZYCLOPS wears a tiny gold lawyer wig and holds a cream document whose advice is fully blacked out.",
+    "title": "NFA.",
+    "kind": "meme",
+    "caption": "the advice is redacted. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS in a tiny gold lawyer wig holding a cream document; the advice section is fully black-redacted. Deadpan.\n\nTop heading exact text: 'NFA.'\nBottom punchline exact text: 'THE ADVICE IS REDACTED.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "exit-liquidity",
+    "headline": "EXIT LIQUIDITY.",
+    "punchline": "THE DOOR WAS A PAINTING.",
+    "scene": "ZYCLOPS reaches for a glowing gold EXIT door — it’s a painted mural on a brick wall. Hand flat against the fake door. Stern confusion.",
+    "tags": [
+      "exit-liquidity",
+      "door",
+      "reaction"
+    ],
+    "alt": "A confused ZYCLOPS presses his hand against a gold exit door painted flat on a charcoal brick wall.",
+    "title": "EXIT LIQUIDITY.",
+    "kind": "meme",
+    "caption": "the door was a painting. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS reaches for a glowing gold EXIT door — it’s a painted mural on a brick wall. Hand flat against the fake door. Stern confusion.\nMake the trick unmistakable: brick mortar lines run uninterrupted through the painted gold door. No real opening or projecting handle. Only the small word EXIT is allowed as extra scene text.\n\nTop heading exact text: 'EXIT LIQUIDITY.'\nBottom punchline exact text: 'THE DOOR WAS A PAINTING.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "onchain",
+    "headline": "ONCHAIN.",
+    "punchline": "HE PREFERS THE BLIND SPOT.",
+    "scene": "ZYCLOPS peeking from behind a thick black redaction curtain / blind, one gold eye visible. Rest of the room is dark.",
+    "tags": [
+      "onchain",
+      "privacy",
+      "blind-spot",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS peers with his one gold eye from behind thick black blinds in a dark room.",
+    "title": "ONCHAIN.",
+    "kind": "meme",
+    "caption": "he prefers the blind spot. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS peeking from behind a thick black redaction curtain / blind, one gold eye visible. Rest of the room is dark.\n\nTop heading exact text: 'ONCHAIN.'\nBottom punchline exact text: 'HE PREFERS THE BLIND SPOT.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "bear-market",
+    "headline": "BEAR MARKET.",
+    "punchline": "HE BROUGHT A PICNIC.",
+    "scene": "ZYCLOPS calmly laying out a tiny gold picnic blanket and coffee mug in a dark charcoal forest while a simple gold bear silhouette watches from the trees. Deadpan hospitality.",
+    "tags": [
+      "bear-market",
+      "picnic",
+      "coffee",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS calmly sets out a tiny gold picnic blanket and coffee mug in a charcoal forest as a gold bear silhouette watches.",
+    "title": "BEAR MARKET.",
+    "kind": "meme",
+    "caption": "he brought a picnic. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS calmly laying out a tiny gold picnic blanket and coffee mug in a dark charcoal forest while a simple gold bear silhouette watches from the trees. Deadpan hospitality.\n\nTop heading exact text: 'BEAR MARKET.'\nBottom punchline exact text: 'HE BROUGHT A PICNIC.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
+  },
+  {
+    "id": "one-more-block",
+    "headline": "ONE MORE BLOCK.",
+    "punchline": "VISION STILL BUFFERING.",
+    "scene": "ZYCLOPS lying in bed under a charcoal blanket, one eye half-open staring at a tiny gold progress bar floating above him like a loading UI. Phone face-down.",
+    "tags": [
+      "one-more-block",
+      "buffering",
+      "sleep",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS lies under a charcoal blanket, his one eye half open toward a floating gold progress bar, with a phone face down beside the bed.",
+    "title": "ONE MORE BLOCK.",
+    "kind": "meme",
+    "caption": "vision still buffering. 👁️",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for the ZYCLOPS mascot identity and tactile 2D screenprint style only. They are not edit targets. Generate a new scene, not a variation of the reference scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster, full designed 1:1 composition. Match the references' charcoal-black, warm cream, metallic ochre-gold printed-ink palette, high contrast, restrained paper grain, bold silhouette, sculpted angular shapes and deadpan humor. 2D illustrated screenprint, not glossy 3D. Simple phone-readable visual joke; no collage or panel grid.\n\nCHARACTER LOCK: Same dark charcoal ape-cyclops face with fur texture (not yellow human skin); exactly ONE central eye with cream sclera and mustard-gold iris; gold metallic brow plate; wide flat mustard-gold nose; thick wide angular black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; bulky build and black hoodie. Retain identity across pose and costume changes. Only the one central eyelid is shown when the scene calls for a blink.\n\nDESIGN: Large condensed cream uppercase headline at top; a bold ochre-gold punchline below the scene; small cream footer 'ZYCLOPS · $ZYCL'. Keep all lettering and important anatomy inside a generous 7% safe margin, with uninterrupted charcoal breathing room at every edge. Wrap long text into two lines if needed, never crop lettering. No extra copy except text expressly specified in the scene, no additional logos, no watermark, no price or profit promises, no readable financial chart numbers, no extra eyes or extra heads. All depicted documents have black redaction bars rather than legible body text.\n\nScene: ZYCLOPS lying in bed under a charcoal blanket, one eye half-open staring at a tiny gold progress bar floating above him like a loading UI. Phone face-down.\n\nTop heading exact text: 'ONE MORE BLOCK.'\nBottom punchline exact text: 'VISION STILL BUFFERING.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
   }
 ]
