@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow, noarchive" />
+    <meta name="referrer" content="same-origin" />
+    <title>ZYCLOPS — Media vault</title>
+    <link rel="icon" href="../assets/favicon.png" />
+    <link rel="stylesheet" href="vault.css" />
+    <script src="vault.js" defer></script>
+  </head>
+  <body>
+    <header class="wrap masthead">
+      <a class="brand" href="../">ZYCLOPS<span>.</span></a>
+      <span class="eyebrow">THE UNLISTED COLLECTION / VOL. 01</span>
+    </header>
+    <main class="wrap">
+      <section class="intro">
+        <div>
+          <p class="eyebrow">ONE EYE. MANY REACTIONS.</p>
+          <h1>THE MEDIA<br /><span>VAULT.</span></h1>
+          <p class="lede">Memes, moving targets, and questionable observations.<br />Ready for the timeline.</p>
+        </div>
+        <aside class="library-note">
+          <strong id="library-count">24 post assets</strong>
+          <p>Choose a file, copy its caption, or give the manifest to your bot.</p>
+          <a class="button gold" href="manifest.json">Bot manifest <span>↗</span></a>
+          <a class="button" href="zyclops-media-pack-v1.zip" download>Download collection <span>↓</span></a>
+          <a class="small-link" href="BOT-README.md">Integration notes</a>
+        </aside>
+      </section>
+      <p class="access-note">Unlisted, not private. Anyone with the URL can access these files. Production URLs work after this collection is published.</p>
+      <form class="filters" role="search" onsubmit="return false">
+        <label class="search-label">Find a reaction<input id="search" type="search" placeholder="Try GM, HODL, copium…" autocomplete="off" /></label>
+        <label>Format<select id="format"><option value="all">Everything</option><option value="image">Pictures</option><option value="video">Animations</option></select></label>
+        <span id="result-count" class="eyebrow" role="status" aria-live="polite"></span>
+      </form>
+      <p id="load-state" role="status">Opening the vault…</p>
+      <div class="grid" id="asset-grid"></div>
+      <noscript><p>JavaScript is disabled. Download the <a href="zyclops-media-pack-v1.zip">complete collection</a> or read the <a href="manifest.json">manifest</a> for individual file paths and captions.</p></noscript>
+    </main>
+    <footer class="wrap">ZYCLOPS · $ZYCL <span>ONE EYE. ZERO VISIBILITY.</span></footer>
+    <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+  </body>
+</html>
