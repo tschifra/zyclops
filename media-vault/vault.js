@@ -34,6 +34,21 @@ async function copy(text, message) {
   }
 }
 
+function isLoop(asset) {
+  return (
+    asset.animation_type === "cinemagraph" ||
+    asset.mime_type === "image/gif" ||
+    asset.mime_type === "image/webp" ||
+    (asset.tags || []).includes("loop")
+  );
+}
+
+function formatLabel(asset) {
+  if (asset.mime_type === "image/gif") return "GIF / LOOP";
+  if (asset.mime_type === "image/webp") return "WEBP / LOOP";
+  return "JPG / SQUARE";
+}
+
 function card(asset) {
   const item = el("article", "asset");
   const media = el("div", "media");
@@ -43,7 +58,7 @@ function card(asset) {
   link.rel = "noopener";
   link.setAttribute("aria-label", `Open ${asset.title}`);
   const img = el("img");
-  img.src = asset.thumbnail_path;
+  img.src = isLoop(asset) ? asset.path : asset.thumbnail_path;
   img.alt = asset.alt_text;
   img.loading = "lazy";
   img.width = 480;
@@ -53,7 +68,7 @@ function card(asset) {
 
   const meta = el("div", "asset-meta");
   meta.append(
-    el("span", "", "JPG / SQUARE"),
+    el("span", "", formatLabel(asset)),
     el("span", "", `${asset.width} × ${asset.height}`),
   );
   const actions = el("div", "asset-actions");
@@ -69,6 +84,12 @@ function card(asset) {
     copy(asset.captions[0], "Caption copied."),
   );
   actions.append(download, url, caption);
+  for (const alt of asset.alternates || []) {
+    const extra = el("a", "", alt.format.toUpperCase() + " ↓");
+    extra.href = alt.path;
+    extra.download = alt.path.split("/").pop();
+    actions.append(extra);
+  }
   item.append(
     media,
     meta,
@@ -82,15 +103,15 @@ function card(asset) {
 
 function render() {
   const query = search.value.trim().toLowerCase();
-  const assets = library.assets.filter(
-    (a) =>
-      (collection.value === "all" || collection.value === a.collection) &&
-      (!query ||
-        [a.title, a.id, ...a.tags, ...a.captions]
-          .join(" ")
-          .toLowerCase()
-          .includes(query)),
-  );
+  const assets = library.assets.filter((a) => {
+    const inCollection =
+      collection.value === "all" ||
+      (collection.value === "loop" ? isLoop(a) : collection.value === a.collection);
+    const haystack = [a.title, a.id, ...(a.tags || []), ...(a.captions || [])]
+      .join(" ")
+      .toLowerCase();
+    return inCollection && (!query || haystack.includes(query));
+  });
   grid.replaceChildren(...assets.map(card));
   count.textContent = `${assets.length} / ${library.assets.length} pictures`;
   if (!assets.length)
@@ -114,11 +135,14 @@ fetch("manifest.json")
     return response.json();
   })
   .then((data) => {
+    const allowed = new Set(["image/jpeg", "image/gif", "image/webp"]);
     if (
       !Array.isArray(data.assets) ||
-      data.assets.some((a) => a.media_type !== "image")
+      data.assets.some(
+        (a) => a.media_type !== "image" || !allowed.has(a.mime_type),
+      )
     )
-      throw new Error("Invalid still-image manifest");
+      throw new Error("Invalid vault manifest");
     library = data;
     loading.hidden = true;
     document.getElementById("library-count").textContent =

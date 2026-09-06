@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "library_version": "2026-09-06.3",
+  "library_version": "2026-09-06.4",
   "name": "ZYCLOPS media vault",
   "home": "https://zyclops.xyz/",
   "gallery": "https://zyclops.xyz/media-vault/",
@@ -223,6 +223,56 @@
       "release": 2
     },
     {
+      "id": "zyclops-night-watch-loop-v1",
+      "creative_id": "night-watch",
+      "title": "Night watch · loop",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "gif/zyclops-night-watch-loop-v1.gif",
+      "url": "https://zyclops.xyz/media-vault/gif/zyclops-night-watch-loop-v1.gif",
+      "mime_type": "image/gif",
+      "width": 400,
+      "height": 400,
+      "bytes": 2277251,
+      "sha256": "a77adb7dd9ed378779b88480ffe602ade5660d94be6d46a324d73b5fadc1fbb4",
+      "thumbnail_path": "thumbs/zyclops-night-watch-loop-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-night-watch-loop-v1.jpg",
+      "captions": [
+        "one eye on the night. absolutely no useful observations.",
+        "one eye on the night. absolutely no useful observations.\n\n$ZYCL"
+      ],
+      "alt_text": "Silent looping illustration: rain falls past the moon while ZYCLOPS stands still on a rooftop.",
+      "tags": [
+        "artwork",
+        "night",
+        "holder-art",
+        "loop"
+      ],
+      "suggested_context": "Silent looping holder artwork. First frame matches last. No audio.",
+      "suggested_cooldown_hours": 72,
+      "topic": "night-watch",
+      "release": 4,
+      "duration_seconds": 5.875,
+      "fps": 8,
+      "animation_type": "cinemagraph",
+      "has_audio": false,
+      "loop": true,
+      "alternates": [
+        {
+          "format": "webp",
+          "mime_type": "image/webp",
+          "path": "webp/zyclops-night-watch-loop-v1.webp",
+          "url": "https://zyclops.xyz/media-vault/webp/zyclops-night-watch-loop-v1.webp",
+          "width": 600,
+          "height": 600,
+          "fps": 8,
+          "bytes": 858028,
+          "sha256": "eae278383519f10607d146c835abfed932814b1db04dc455117d6c5e36f5fe2e"
+        }
+      ]
+    },
+    {
       "id": "zyclops-the-blind-spot-v1",
       "creative_id": "the-blind-spot",
       "title": "The blind spot",
@@ -252,6 +302,56 @@
       "suggested_cooldown_hours": 72,
       "topic": "the-blind-spot",
       "release": 2
+    },
+    {
+      "id": "zyclops-the-blind-spot-loop-v1",
+      "creative_id": "the-blind-spot",
+      "title": "The blind spot · loop",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "gif/zyclops-the-blind-spot-loop-v1.gif",
+      "url": "https://zyclops.xyz/media-vault/gif/zyclops-the-blind-spot-loop-v1.gif",
+      "mime_type": "image/gif",
+      "width": 400,
+      "height": 400,
+      "bytes": 2354294,
+      "sha256": "e6e1ce10007a8395d41dc27950f9035a27c89552051250ac5db8b8b65c0e2078",
+      "thumbnail_path": "thumbs/zyclops-the-blind-spot-loop-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-the-blind-spot-loop-v1.jpg",
+      "captions": [
+        "there's a place for you in the blind spot.",
+        "there's a place for you in the blind spot.\n\n$ZYCL"
+      ],
+      "alt_text": "Silent looping illustration: steam curls from the coffee while rain streaks the cafe window.",
+      "tags": [
+        "artwork",
+        "community",
+        "holder-art",
+        "loop"
+      ],
+      "suggested_context": "Silent looping holder artwork. First frame matches last. No audio.",
+      "suggested_cooldown_hours": 72,
+      "topic": "the-blind-spot",
+      "release": 4,
+      "duration_seconds": 5.875,
+      "fps": 8,
+      "animation_type": "cinemagraph",
+      "has_audio": false,
+      "loop": true,
+      "alternates": [
+        {
+          "format": "webp",
+          "mime_type": "image/webp",
+          "path": "webp/zyclops-the-blind-spot-loop-v1.webp",
+          "url": "https://zyclops.xyz/media-vault/webp/zyclops-the-blind-spot-loop-v1.webp",
+          "width": 600,
+          "height": 600,
+          "fps": 8,
+          "bytes": 1247028,
+          "sha256": "da42be6de5499096d29fc7e4a721716ada5945f9ce289f1a39838fce5338483f"
+        }
+      ]
     },
     {
       "id": "zyclops-golden-sentinel-v1",
@@ -347,6 +447,56 @@
       "release": 2
     },
     {
+      "id": "zyclops-rainy-alley-loop-v1",
+      "creative_id": "rainy-alley",
+      "title": "After the rain · loop",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "gif/zyclops-rainy-alley-loop-v1.gif",
+      "url": "https://zyclops.xyz/media-vault/gif/zyclops-rainy-alley-loop-v1.gif",
+      "mime_type": "image/gif",
+      "width": 400,
+      "height": 400,
+      "bytes": 2093823,
+      "sha256": "762fda2cc625d399ef2eae2bdee3407b39332901aeabc1b9d644d0df69d2c96b",
+      "thumbnail_path": "thumbs/zyclops-rainy-alley-loop-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-rainy-alley-loop-v1.jpg",
+      "captions": [
+        "low visibility. ideal conditions.",
+        "low visibility. ideal conditions.\n\n$ZYCL"
+      ],
+      "alt_text": "Silent looping illustration: rain falls and puddles ripple while hooded ZYCLOPS stands still.",
+      "tags": [
+        "artwork",
+        "rain",
+        "holder-art",
+        "loop"
+      ],
+      "suggested_context": "Silent looping holder artwork. First frame matches last. No audio.",
+      "suggested_cooldown_hours": 72,
+      "topic": "rainy-alley",
+      "release": 4,
+      "duration_seconds": 5.875,
+      "fps": 8,
+      "animation_type": "cinemagraph",
+      "has_audio": false,
+      "loop": true,
+      "alternates": [
+        {
+          "format": "webp",
+          "mime_type": "image/webp",
+          "path": "webp/zyclops-rainy-alley-loop-v1.webp",
+          "url": "https://zyclops.xyz/media-vault/webp/zyclops-rainy-alley-loop-v1.webp",
+          "width": 600,
+          "height": 600,
+          "fps": 8,
+          "bytes": 750046,
+          "sha256": "24f5bed01a6f8306acb7fb71caec7f428fbb7fea810da51a084dc6dc6a4afc24"
+        }
+      ]
+    },
+    {
       "id": "zyclops-the-forge-v1",
       "creative_id": "the-forge",
       "title": "Made in the blind spot",
@@ -376,6 +526,56 @@
       "suggested_cooldown_hours": 72,
       "topic": "the-forge",
       "release": 2
+    },
+    {
+      "id": "zyclops-the-forge-loop-v1",
+      "creative_id": "the-forge",
+      "title": "Made in the blind spot · loop",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "gif/zyclops-the-forge-loop-v1.gif",
+      "url": "https://zyclops.xyz/media-vault/gif/zyclops-the-forge-loop-v1.gif",
+      "mime_type": "image/gif",
+      "width": 400,
+      "height": 400,
+      "bytes": 2555952,
+      "sha256": "1877f889652c1cf07121c60b91f47a6d1785c7566da73e5797daea800cf51a44",
+      "thumbnail_path": "thumbs/zyclops-the-forge-loop-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-the-forge-loop-v1.jpg",
+      "captions": [
+        "built by hand. inspected by one eye.",
+        "built by hand. inspected by one eye.\n\n$ZYCL"
+      ],
+      "alt_text": "Silent looping illustration: furnace fire and gold sparks move while ZYCLOPS stays at the bench.",
+      "tags": [
+        "artwork",
+        "craft",
+        "holder-art",
+        "loop"
+      ],
+      "suggested_context": "Silent looping holder artwork. First frame matches last. No audio.",
+      "suggested_cooldown_hours": 72,
+      "topic": "the-forge",
+      "release": 4,
+      "duration_seconds": 5.875,
+      "fps": 8,
+      "animation_type": "cinemagraph",
+      "has_audio": false,
+      "loop": true,
+      "alternates": [
+        {
+          "format": "webp",
+          "mime_type": "image/webp",
+          "path": "webp/zyclops-the-forge-loop-v1.webp",
+          "url": "https://zyclops.xyz/media-vault/webp/zyclops-the-forge-loop-v1.webp",
+          "width": 600,
+          "height": 600,
+          "fps": 8,
+          "bytes": 1690778,
+          "sha256": "1420fead680f7bb7b2d6dbb672cf67033a368582af19c4b4f304d78d2dcf9069"
+        }
+      ]
     },
     {
       "id": "zyclops-campfire-v1",
@@ -409,6 +609,56 @@
       "release": 2
     },
     {
+      "id": "zyclops-campfire-loop-v1",
+      "creative_id": "campfire",
+      "title": "Off the grid · loop",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "gif/zyclops-campfire-loop-v1.gif",
+      "url": "https://zyclops.xyz/media-vault/gif/zyclops-campfire-loop-v1.gif",
+      "mime_type": "image/gif",
+      "width": 400,
+      "height": 400,
+      "bytes": 2308669,
+      "sha256": "e24ff102dc3afc098c9ce322f0a509b7fe5228ff01d332c61b591b0289b54823",
+      "thumbnail_path": "thumbs/zyclops-campfire-loop-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-campfire-loop-v1.jpg",
+      "captions": [
+        "off the grid. still in the group chat.",
+        "off the grid. still in the group chat.\n\n$ZYCL"
+      ],
+      "alt_text": "Silent looping illustration: campfire flames and coffee steam move while ZYCLOPS sits still.",
+      "tags": [
+        "artwork",
+        "campfire",
+        "holder-art",
+        "loop"
+      ],
+      "suggested_context": "Silent looping holder artwork. First frame matches last. No audio.",
+      "suggested_cooldown_hours": 72,
+      "topic": "campfire",
+      "release": 4,
+      "duration_seconds": 5.875,
+      "fps": 8,
+      "animation_type": "cinemagraph",
+      "has_audio": false,
+      "loop": true,
+      "alternates": [
+        {
+          "format": "webp",
+          "mime_type": "image/webp",
+          "path": "webp/zyclops-campfire-loop-v1.webp",
+          "url": "https://zyclops.xyz/media-vault/webp/zyclops-campfire-loop-v1.webp",
+          "width": 600,
+          "height": 600,
+          "fps": 8,
+          "bytes": 1044216,
+          "sha256": "01abde96a575acd9097dc3fc3b0436ae169d8b2b783861ba783160c488645525"
+        }
+      ]
+    },
+    {
       "id": "zyclops-redacted-world-v1",
       "creative_id": "redacted-world",
       "title": "Nothing to see here",
@@ -438,6 +688,218 @@
       "suggested_cooldown_hours": 72,
       "topic": "redacted-world",
       "release": 2
+    },
+    {
+      "id": "zyclops-redacted-world-loop-v1",
+      "creative_id": "redacted-world",
+      "title": "Nothing to see here · loop",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "gif/zyclops-redacted-world-loop-v1.gif",
+      "url": "https://zyclops.xyz/media-vault/gif/zyclops-redacted-world-loop-v1.gif",
+      "mime_type": "image/gif",
+      "width": 400,
+      "height": 400,
+      "bytes": 3669330,
+      "sha256": "0c9e6485f505b90fee7a9bdec50216fc6068981dba486f886c5bc32a909043a2",
+      "thumbnail_path": "thumbs/zyclops-redacted-world-loop-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-redacted-world-loop-v1.jpg",
+      "captions": [
+        "the view is classified. the company is good.",
+        "the view is classified. the company is good.\n\n$ZYCL"
+      ],
+      "alt_text": "Silent looping illustration: redacted papers drift through the archive while ZYCLOPS holds still.",
+      "tags": [
+        "artwork",
+        "privacy",
+        "holder-art",
+        "loop"
+      ],
+      "suggested_context": "Silent looping holder artwork. First frame matches last. No audio.",
+      "suggested_cooldown_hours": 72,
+      "topic": "redacted-world",
+      "release": 4,
+      "duration_seconds": 5.875,
+      "fps": 8,
+      "animation_type": "cinemagraph",
+      "has_audio": false,
+      "loop": true,
+      "alternates": [
+        {
+          "format": "webp",
+          "mime_type": "image/webp",
+          "path": "webp/zyclops-redacted-world-loop-v1.webp",
+          "url": "https://zyclops.xyz/media-vault/webp/zyclops-redacted-world-loop-v1.webp",
+          "width": 600,
+          "height": 600,
+          "fps": 8,
+          "bytes": 1742466,
+          "sha256": "590e251452b16b2d87117a7351e30e0b453f5523cacb257d49dbd85d7dc4659a"
+        }
+      ]
+    },
+    {
+      "id": "zyclops-first-snow-v1",
+      "creative_id": "first-snow",
+      "title": "First snow",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "images/zyclops-first-snow-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-first-snow-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 480555,
+      "sha256": "d58805eea83c8e2d9515211d22654abd5607accf4f94b83b69324079613b0eab",
+      "thumbnail_path": "thumbs/zyclops-first-snow-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-first-snow-v1.jpg",
+      "captions": [
+        "the coffee is still warmer than the forecast.",
+        "the coffee is still warmer than the forecast.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS sits on a cabin porch in falling snow with a gold lantern and coffee.",
+      "tags": [
+        "artwork",
+        "snow",
+        "holder-art"
+      ],
+      "suggested_context": "Holder artwork to share with your own caption.",
+      "suggested_cooldown_hours": 72,
+      "topic": "first-snow",
+      "release": 4
+    },
+    {
+      "id": "zyclops-first-snow-loop-v1",
+      "creative_id": "first-snow",
+      "title": "First snow · loop",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "gif/zyclops-first-snow-loop-v1.gif",
+      "url": "https://zyclops.xyz/media-vault/gif/zyclops-first-snow-loop-v1.gif",
+      "mime_type": "image/gif",
+      "width": 400,
+      "height": 400,
+      "bytes": 2012918,
+      "sha256": "e3eb796311b4364807404be6060410c45182f854bab50d66552ea12a5c0ee910",
+      "thumbnail_path": "thumbs/zyclops-first-snow-loop-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-first-snow-loop-v1.jpg",
+      "captions": [
+        "the coffee is still warmer than the forecast.",
+        "the coffee is still warmer than the forecast.\n\n$ZYCL"
+      ],
+      "alt_text": "Silent looping illustration: snow falls and the lantern flame flickers on the cabin porch.",
+      "tags": [
+        "artwork",
+        "snow",
+        "holder-art",
+        "loop"
+      ],
+      "suggested_context": "Silent looping holder artwork. First frame matches last. No audio.",
+      "suggested_cooldown_hours": 72,
+      "topic": "first-snow",
+      "release": 4,
+      "duration_seconds": 5.875,
+      "fps": 8,
+      "animation_type": "cinemagraph",
+      "has_audio": false,
+      "loop": true,
+      "alternates": [
+        {
+          "format": "webp",
+          "mime_type": "image/webp",
+          "path": "webp/zyclops-first-snow-loop-v1.webp",
+          "url": "https://zyclops.xyz/media-vault/webp/zyclops-first-snow-loop-v1.webp",
+          "width": 600,
+          "height": 600,
+          "fps": 8,
+          "bytes": 837906,
+          "sha256": "9ecda221f557f580fde6f5722379cf38e051fcbc0247ba8c51887c92cdd8ba2e"
+        }
+      ]
+    },
+    {
+      "id": "zyclops-the-lantern-v1",
+      "creative_id": "the-lantern",
+      "title": "The lantern",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "images/zyclops-the-lantern-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-the-lantern-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 482517,
+      "sha256": "d1b5432a546bb41b63c4654ea3e0475839afd46ebc6e1af08767327525699e2d",
+      "thumbnail_path": "thumbs/zyclops-the-lantern-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-the-lantern-v1.jpg",
+      "captions": [
+        "one light. no audience.",
+        "one light. no audience.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS sits in a brick vault holding a gold lantern among stored boxes.",
+      "tags": [
+        "artwork",
+        "lantern",
+        "holder-art"
+      ],
+      "suggested_context": "Holder artwork to share with your own caption.",
+      "suggested_cooldown_hours": 72,
+      "topic": "the-lantern",
+      "release": 4
+    },
+    {
+      "id": "zyclops-the-lantern-loop-v1",
+      "creative_id": "the-lantern",
+      "title": "The lantern · loop",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "gif/zyclops-the-lantern-loop-v1.gif",
+      "url": "https://zyclops.xyz/media-vault/gif/zyclops-the-lantern-loop-v1.gif",
+      "mime_type": "image/gif",
+      "width": 400,
+      "height": 400,
+      "bytes": 2215278,
+      "sha256": "4ac5759b0e113b5c81cf78ace82749553e4c448f4be54bffbf7fecb0e0930cd2",
+      "thumbnail_path": "thumbs/zyclops-the-lantern-loop-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-the-lantern-loop-v1.jpg",
+      "captions": [
+        "one light. no audience.",
+        "one light. no audience.\n\n$ZYCL"
+      ],
+      "alt_text": "Silent looping illustration: the lantern flame flickers and gold dust drifts in the vault.",
+      "tags": [
+        "artwork",
+        "lantern",
+        "holder-art",
+        "loop"
+      ],
+      "suggested_context": "Silent looping holder artwork. First frame matches last. No audio.",
+      "suggested_cooldown_hours": 72,
+      "topic": "the-lantern",
+      "release": 4,
+      "duration_seconds": 5.875,
+      "fps": 8,
+      "animation_type": "cinemagraph",
+      "has_audio": false,
+      "loop": true,
+      "alternates": [
+        {
+          "format": "webp",
+          "mime_type": "image/webp",
+          "path": "webp/zyclops-the-lantern-loop-v1.webp",
+          "url": "https://zyclops.xyz/media-vault/webp/zyclops-the-lantern-loop-v1.webp",
+          "width": 600,
+          "height": 600,
+          "fps": 8,
+          "bytes": 1004628,
+          "sha256": "0195ade6599f4aa79d3b40ca9ae74e038a00358e7e2a582aa08c5bdb8557ed88"
+        }
+      ]
     },
     {
       "id": "gm",
@@ -755,9 +1217,11 @@
   "base_url": "https://zyclops.xyz/media-vault/",
   "access": "Unlisted, publicly accessible by URL; not authenticated.",
   "counts": {
-    "images": 24,
+    "images": 26,
     "videos": 0,
-    "gif_alternates": 0
+    "loops": 8,
+    "gif_alternates": 0,
+    "webp_alternates": 8
   },
   "retired_asset_ids": [
     "based",

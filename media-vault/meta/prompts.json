@@ -350,5 +350,31 @@
     "alt": "ZYCLOPS carries a sealed folder through a golden-lit archive filled with abstract redaction bars.",
     "kind": "artwork",
     "prompt": "Use case: illustration-story. Asset type: ONE premium square collectible-style ZYCLOPS illustration for holders to share on X. Generate a NEW scene using the reference solely for mascot identity and screenprint illustration style. Exactly ONE luminous central golden eye, huge angular black beard, bulky black and gold cyclops. Tactile ink and subtle paper grain, bold sculpted gold outlines, warm ochre gold/cream/charcoal palette, intricate composition with clear readable silhouette. This is regular character artwork, NOT a meme template: NO large headings, NO captions, NO charts, NO token prices, NO promotional claims, NO extra eyes, NO panels. Keep the full scene beautifully composed in 1:1 with a 6% margin for the essential subject. The ONLY permitted lettering is a small discreet 'ZYCLOPS · $ZYCL' artist-signature-style footer inside the bottom safe margin. Scene: Cyclops walking through a monumental dark archive corridor lined with tall shelves; abstract horizontal black redaction bars float in a shaft of golden light like surreal paper ribbons. Exactly one gold eye under hood, bold angular beard, one hand holding a plain sealed folder, dramatic perspective and mysterious calm."
+  },
+  {
+    "id": "first-snow",
+    "title": "First snow",
+    "scene": "Cyclops sitting on a wooden cabin porch at night in falling cream snow, black hoodie with gold trim, one large golden eye, holding a steaming coffee mug, gold lantern glowing at his boots, pine trees behind.",
+    "caption": "the coffee is still warmer than the forecast.",
+    "tags": [
+      "artwork",
+      "snow",
+      "holder-art"
+    ],
+    "alt": "ZYCLOPS sits on a cabin porch in falling snow with a gold lantern and coffee.",
+    "kind": "artwork"
+  },
+  {
+    "id": "the-lantern",
+    "title": "The lantern",
+    "scene": "Cyclops sitting on a stone stool inside a dark brick vault cellar, black coat with gold trim, one large golden eye, holding a gold lantern that lights floating dust, shelves of boxes in shadow.",
+    "caption": "one light. no audience.",
+    "tags": [
+      "artwork",
+      "lantern",
+      "holder-art"
+    ],
+    "alt": "ZYCLOPS sits in a brick vault holding a gold lantern among stored boxes.",
+    "kind": "artwork"
   }
 ]

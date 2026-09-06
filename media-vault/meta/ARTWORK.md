@@ -2,6 +2,8 @@
 
 The vault uses a consistent illustration style: charcoal-black backgrounds, warm ochre gold and cream, a single large central eye, an angular beard, heavy drawn contours, and a restrained ink/paper texture. Meme headlines use bold cream capitals with a gold punchline. Holder illustrations use a small ZYCLOPS / $ZYCL footer.
 
-The collection contains 16 meme scenes and eight holder illustrations. Six older versions that mixed glossy 3D rendering, photographic sets, and flat poster treatment have been removed in favor of the matching illustrated versions. All vault animations and their GIF alternatives have been removed.
+The collection contains 16 meme scenes and ten holder illustrations, plus eight silent looping scenes derived from the holder artwork. Six older versions that mixed glossy 3D rendering, photographic sets, and flat poster treatment remain retired. Older Ken Burns camera posters and sticker loops also stay retired.
+
+Volume 4 adds two new stills (First snow, The lantern) and eight palindrome loops: campfire, forge, rain, cafe, archive, night watch, snow, and lantern. Loops keep the character still and move only the environment (fire, rain, steam, papers, snow, lantern flame). They are GIF files with the first frame identical to the last, no audio, and a smaller WebP alternate.
 
 The retained artwork was generated with the built-in image generation tool using the established illustrated ZYCLOPS character as a reference. Exact submitted prompts are preserved in `prompts.json`. Curation did not edit the retained image files. Original source images and previous releases remain recoverable outside the active public collection.
