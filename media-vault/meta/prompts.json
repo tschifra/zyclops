@@ -624,5 +624,48 @@
     ],
     "alt": "ZYCLOPS carries groceries through a lantern-lit midnight market.",
     "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS holder illustration.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS walking through a cozy closed midnight market with warm gold hanging lanterns, dark timber stalls, baskets of fruit rendered in ochre, carrying a modest paper bag of groceries. Three-quarter frontal view with exactly one large golden eye. No other people or readable signage. Layered ornate 2D illustration in the same reference ink style.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nNo meme headline and no scene lettering. The only text is a small discreet cream \"ZYCLOPS · $ZYCL\" footer fully inside a 5% safe margin.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "chart-redacted",
+    "title": "THE CHART.",
+    "headline": "THE CHART.",
+    "punchline": "HE LOOKED. THEN HE REDACTED IT.",
+    "kind": "meme",
+    "scene": "Sleepy-serious ZYCLOPS at a simple dark desk staring at one monitor. On the screen a gold chart line is almost entirely covered by thick horizontal black redaction bars. One black coffee mug with a small gold Z. Minimal props, charcoal grain background. Deadpan expression — he looked, then he redacted it.",
+    "caption": "he looked. then he redacted it. 👁️",
+    "tags": [
+      "chart",
+      "redacted",
+      "privacy",
+      "reaction"
+    ],
+    "alt": "A sleepy-serious ZYCLOPS sits at a dark desk facing a monitor whose gold chart line is mostly obscured by black redaction bars, beside a black coffee mug with a gold Z.",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are character and tactile 2D screenprint style references only, not edit targets. Generate the requested new scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Generate a NEW illustration using the supplied image only for ZYCLOPS mascot identity and tactile screenprint style. Preserve exactly ONE large central golden eye, wide angular black beard, bulky black/gold-clothed cyclops with sculpted gold facial edges. Match the reference's black charcoal, warm cream, metallic ochre-gold print texture, high contrast and restrained grain. Strong expressive silhouette, phone-readable visual joke. Full designed 1:1 poster, no collage, no panel grid. Put large condensed cream uppercase heading at top, a bold gold punchline below the scene, small exact footer 'ZYCLOPS · $ZYCL'. Keep ALL lettering and important anatomy within a generous 7% safe margin; a dark border of breathing room. No extra copy, no extra eyes, no graph axes with readable numbers, no promises of profit, no additional logos, no watermark.\n\nCHARACTER LOCK from references: dark charcoal ape-cyclops face with fur texture (not yellow human skin); gold metallic brow plate above the eye; wide flat mustard-gold nose; thick black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; one cream-sclera mustard-gold iris eye; black hoodie. Same face as the attached vault refs.\n\nScene: Sleepy-serious ZYCLOPS at a simple dark desk staring at one monitor. On the screen a gold chart line is almost entirely covered by thick horizontal black redaction bars. One black coffee mug with a small gold Z. Minimal props, charcoal grain background. Deadpan expression — he looked, then he redacted it.\n\nTop heading exact text: 'THE CHART.'\nBottom punchline exact text: 'HE LOOKED. THEN HE REDACTED IT.'\nFooter exact text: 'ZYCLOPS · $ZYCL'.",
+    "refinement_prompt": "Use case: precise-object-edit. Edit this ZYCLOPS meme with ONLY these two corrections. Preserve the same illustrated character, anatomy, exactly one eye, fur-textured charcoal face, gold brow and side plates, black hoodie, pose, desk, monitor, mug, palette, tactile screenprint style, and exact wording.\n1. On the monitor, make the thick opaque black redaction bars cover almost the entire gold chart line. Only a few tiny disconnected gold fragments should remain visible; its overall trajectory must be unreadable. Keep the screen framed as a monitor and no readable numbers.\n2. Place ALL lettering fully inside a 7% safe margin on all four sides of the square canvas, including the top headline, bottom punchline, and footer. Reduce the layout scale just enough to provide charcoal breathing room. Keep all content legible, without cropping letters or adding a gray border.\nExact top headline: THE CHART.\nExact bottom punchline: HE LOOKED. THEN HE REDACTED IT.\nExact footer: ZYCLOPS · $ZYCL\nDo not add other text, objects, extra eyes or new design elements. Return one finished square meme."
+  },
+  {
+    "id": "find-zatoshi",
+    "title": "CURRENT ASSIGNMENT.",
+    "headline": "CURRENT ASSIGNMENT.",
+    "punchline": "FIND ZATOSHI. PROGRESS: NONE.",
+    "kind": "meme",
+    "scene": "Same ZYCLOPS holds a magnifying glass over one cream classified folder stamped with thick black redaction bars. Minimal charcoal grain background. Clean simple composition — one clear joke, not a busy corkboard. Deadpan serious about a ridiculous assignment with zero progress.",
+    "caption": "current assignment: find zatoshi. progress: none. 👁️",
+    "tags": [
+      "zatoshi",
+      "research",
+      "redacted",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS examines a cream classified folder covered with black redaction bars through a magnifying glass, with a deadpan expression.",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are character and tactile 2D screenprint style references only, not edit targets. Generate the requested new scene.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Generate a NEW illustration using the supplied image only for ZYCLOPS mascot identity and tactile screenprint style. Preserve exactly ONE large central golden eye, wide angular black beard, bulky black/gold-clothed cyclops with sculpted gold facial edges. Match the reference's black charcoal, warm cream, metallic ochre-gold print texture, high contrast and restrained grain. Strong expressive silhouette, phone-readable visual joke. Full designed 1:1 poster, no collage, no panel grid. Put large condensed cream uppercase heading at top, a bold gold punchline below the scene, small exact footer 'ZYCLOPS · $ZYCL'. Keep ALL lettering and important anatomy within a generous 7% safe margin; a dark border of breathing room. No extra copy, no extra eyes, no promises of profit, no additional logos, no watermark.\n\nCHARACTER LOCK from references: dark charcoal ape-cyclops face with fur texture (not yellow human skin); gold metallic brow plate above the eye; wide flat mustard-gold nose; thick black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; one cream-sclera mustard-gold iris eye; black hoodie. Same face as the attached vault refs.\n\nScene: Same ZYCLOPS holds a magnifying glass over one cream classified folder stamped with thick black redaction bars. Minimal charcoal grain background. Clean simple composition — one clear joke, not a busy corkboard. Deadpan serious about a ridiculous assignment with zero progress.\n\nTop heading exact text: 'CURRENT ASSIGNMENT.'\nBottom punchline exact text: 'FIND ZATOSHI. PROGRESS: NONE.'\nFooter exact text: 'ZYCLOPS · $ZYCL'."
   }
 ]

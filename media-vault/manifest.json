@@ -1,10 +1,74 @@
 {
   "schema_version": "1.0",
-  "library_version": "2026-09-06.5",
+  "library_version": "2026-09-06.6",
   "name": "ZYCLOPS media vault",
   "home": "https://zyclops.xyz/",
   "gallery": "https://zyclops.xyz/media-vault/",
   "assets": [
+    {
+      "id": "zyclops-chart-redacted-v1",
+      "creative_id": "chart-redacted",
+      "title": "THE CHART.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-chart-redacted-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-chart-redacted-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 578154,
+      "sha256": "e7f721b1bfea0dd144d467c913eed84f28308b15f0096e37753d4df5c6c57441",
+      "thumbnail_path": "thumbs/zyclops-chart-redacted-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-chart-redacted-v1.jpg",
+      "captions": [
+        "he looked. then he redacted it. 👁️",
+        "he looked. then he redacted it. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "A sleepy-serious ZYCLOPS sits at a dark desk facing a monitor whose gold chart line is mostly obscured by black redaction bars, beside a black coffee mug with a gold Z.",
+      "tags": [
+        "chart",
+        "redacted",
+        "privacy",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 6,
+      "topic": "chart-redacted"
+    },
+    {
+      "id": "zyclops-find-zatoshi-v1",
+      "creative_id": "find-zatoshi",
+      "title": "CURRENT ASSIGNMENT.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-find-zatoshi-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-find-zatoshi-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 624988,
+      "sha256": "03804555cf1d3bf12f4a47eaad3907686b7a96935b21d35a89bef2da481a32c4",
+      "thumbnail_path": "thumbs/zyclops-find-zatoshi-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-find-zatoshi-v1.jpg",
+      "captions": [
+        "current assignment: find zatoshi. progress: none. 👁️",
+        "current assignment: find zatoshi. progress: none. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS examines a cream classified folder covered with black redaction bars through a magnifying glass, with a deadpan expression.",
+      "tags": [
+        "zatoshi",
+        "research",
+        "redacted",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 6,
+      "topic": "find-zatoshi"
+    },
     {
       "id": "zyclops-lfg-v1",
       "creative_id": "lfg",
@@ -1713,7 +1777,7 @@
   "base_url": "https://zyclops.xyz/media-vault/",
   "access": "Unlisted, publicly accessible by URL; not authenticated.",
   "counts": {
-    "images": 42,
+    "images": 44,
     "videos": 0,
     "loops": 8,
     "gif_alternates": 0,
@@ -1746,5 +1810,5 @@
     "zyclops-rain-motion-v1",
     "zyclops-sentinel-motion-v1"
   ],
-  "pack_version": 5
+  "pack_version": 6
 }
