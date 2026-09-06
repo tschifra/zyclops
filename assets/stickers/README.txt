@@ -20,8 +20,4 @@
 | `16-hodl.png` | 🗿 | HODL |
 
 Official pack short name: ZYCLOPSzec
-Intended link: https://t.me/addstickers/ZYCLOPSzec
-That link 404s in Telegram until the pack is published.
-
-Publish via @Stickers → /newpack → title ZYCLOPS → upload these PNGs
-with the emoji above → /publish → short name ZYCLOPSzec exactly.
+Link: https://t.me/addstickers/ZYCLOPSzec
