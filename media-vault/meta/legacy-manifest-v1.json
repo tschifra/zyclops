@@ -1,0 +1,713 @@
+{
+  "schema_version": "1.0",
+  "library_version": "v1",
+  "name": "ZYCLOPS media vault",
+  "home": "https://zyclops.xyz/",
+  "gallery": "https://zyclops.xyz/media-vault/",
+  "assets": [
+    {
+      "id": "gm",
+      "creative_id": "gm",
+      "title": "GM.",
+      "media_type": "image",
+      "path": "images/gm.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/gm.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 323477,
+      "sha256": "f098f73fddfc1085661108a45e39f854b4eea9d222197ae4ba2dc9afb76966d3",
+      "captions": [
+        "gm. the eye is open. the brain has requested an extension. ☕",
+        "gm. the eye is open. the brain has requested an extension. ☕ $ZYCL"
+      ],
+      "alt_text": "Sleepy ZYCLOPS with one half-open gold eye holds a coffee mug beside a croissant.",
+      "tags": [
+        "gm",
+        "morning",
+        "coffee"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/gm.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/gm.jpg"
+    },
+    {
+      "id": "gn",
+      "creative_id": "gn",
+      "title": "GN.",
+      "media_type": "image",
+      "path": "images/gn.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/gn.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 298000,
+      "sha256": "430d9a000f80e53f9523ffbff76683e55646fbaa1b99fbf537c7cead33a9d0b8",
+      "captions": [
+        "gn, blind spot. one eye. officially off duty. 🌙",
+        "gn, blind spot. one eye. officially off duty. 🌙 $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS sleeps in an armchair with a single oval eye mask and a blanket.",
+      "tags": [
+        "gn",
+        "night",
+        "rest"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/gn.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/gn.jpg"
+    },
+    {
+      "id": "hodl",
+      "creative_id": "hodl",
+      "title": "HODL.",
+      "media_type": "image",
+      "path": "images/hodl.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/hodl.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 371616,
+      "sha256": "8a2b422a10b8acec9c10717503daa04aaa9ed2f40d0e441f0685585c0f39cfb9",
+      "captions": [
+        "hodl. he was talking about the mug.",
+        "hodl. he was talking about the mug. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS grips his coffee mug with both hands while papers blow around him.",
+      "tags": [
+        "hodl",
+        "reaction",
+        "patience"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/hodl.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/hodl.jpg"
+    },
+    {
+      "id": "diamond-hands",
+      "creative_id": "diamond-hands",
+      "title": "DIAMOND HANDS.",
+      "media_type": "image",
+      "path": "images/diamond-hands.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/diamond-hands.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 385839,
+      "sha256": "1505c83b68f53fac07179f49b57d1611cbbac41094d2bbd4cea374a197466065",
+      "captions": [
+        "diamond hands. still can't operate a teaspoon.",
+        "diamond hands. still can't operate a teaspoon. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS tries to hold a tiny teacup with two oversized diamond hands.",
+      "tags": [
+        "diamond-hands",
+        "reaction",
+        "crypto"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/diamond-hands.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/diamond-hands.jpg"
+    },
+    {
+      "id": "pump",
+      "creative_id": "pump",
+      "title": "PUMP.",
+      "media_type": "image",
+      "path": "images/pump.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/pump.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 316576,
+      "sha256": "e8480b78e70be12726894ad147ebc2eb430013864b0968975d4510333887d4fc",
+      "captions": [
+        "someone said pump. he understood the assignment differently.",
+        "someone said pump. he understood the assignment differently. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS operates a bicycle pump beside a flat bicycle tire.",
+      "tags": [
+        "pump",
+        "reaction",
+        "literal"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/pump.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/pump.jpg"
+    },
+    {
+      "id": "the-dip",
+      "creative_id": "the-dip",
+      "title": "THE DIP.",
+      "media_type": "image",
+      "path": "images/the-dip.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/the-dip.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 337975,
+      "sha256": "6dcca2d046f0a8d1c46b2f109b4a47e20eab98aee37cbce71b612535d7020fc5",
+      "captions": [
+        "saw the dip. brought chips. contributed nothing else.",
+        "saw the dip. brought chips. contributed nothing else. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS solemnly examines a bowl of dip while holding a tortilla chip.",
+      "tags": [
+        "dip",
+        "reaction",
+        "snack"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/the-dip.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/the-dip.jpg"
+    },
+    {
+      "id": "this-is-fine",
+      "creative_id": "this-is-fine",
+      "title": "THIS IS FINE.",
+      "media_type": "image",
+      "path": "images/this-is-fine.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/this-is-fine.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 391177,
+      "sha256": "23981208ab970b5309b7eafbdacb65113a6c7c1dcd7a1772ab79311a69081269",
+      "captions": [
+        "this is fine. the coffee is still warm.",
+        "this is fine. the coffee is still warm. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS calmly drinks coffee while harmless cartoon gold flames surround his chair.",
+      "tags": [
+        "this-is-fine",
+        "reaction",
+        "chaos"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/this-is-fine.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/this-is-fine.jpg"
+    },
+    {
+      "id": "rekt",
+      "creative_id": "rekt",
+      "title": "REKT.",
+      "media_type": "image",
+      "path": "images/rekt.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/rekt.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 288674,
+      "sha256": "dea271197278503949187e14ff69f09a1f0b3d405af3cd21c0bd3d63c244d5e1",
+      "captions": [
+        "rekt. primarily emotionally. mostly about the coffee.",
+        "rekt. primarily emotionally. mostly about the coffee. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS slumps beside a spilled cup of coffee with a weary single eye.",
+      "tags": [
+        "rekt",
+        "reaction",
+        "oops"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/rekt.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/rekt.jpg"
+    },
+    {
+      "id": "lurking",
+      "creative_id": "lurking",
+      "title": "LURKING.",
+      "media_type": "image",
+      "path": "images/lurking.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/lurking.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 311771,
+      "sha256": "a05acd094ac389e0a0921cf764cd1214953b74e2bad2dbfb446365a8ee4bd5d9",
+      "captions": [
+        "quiet in the chat. aggressively present in spirit. 👁️",
+        "quiet in the chat. aggressively present in spirit. 👁️ $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS peers around a dark curtain with one large golden eye.",
+      "tags": [
+        "lurking",
+        "community",
+        "reaction"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/lurking.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/lurking.jpg"
+    },
+    {
+      "id": "copium",
+      "creative_id": "copium",
+      "title": "COPIUM.",
+      "media_type": "image",
+      "path": "images/copium.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/copium.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 365043,
+      "sha256": "88a1e8c0f56091425beb6d38f83925b18431253f5023cc0ebe42a560ae1bcbb1",
+      "captions": [
+        "fresh copium. locally brewed. absolutely no supporting evidence.",
+        "fresh copium. locally brewed. absolutely no supporting evidence. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS stirs a steaming cup labeled COPIUM beside a redacted receipt.",
+      "tags": [
+        "copium",
+        "reaction",
+        "coffee"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/copium.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/copium.jpg"
+    },
+    {
+      "id": "touch-grass",
+      "creative_id": "touch-grass",
+      "title": "TOUCH GRASS.",
+      "media_type": "image",
+      "path": "images/touch-grass.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/touch-grass.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 172289,
+      "sha256": "3b624cf603725e99e8467c9396682aba2e24bade031c91b3ff9f29afbcea4330",
+      "captions": [
+        "touched grass. it declined to comment.",
+        "touched grass. it declined to comment. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS crouches to inspect and touch a tiny tuft of grass.",
+      "tags": [
+        "touch-grass",
+        "weekend",
+        "reaction"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/touch-grass.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/touch-grass.jpg"
+    },
+    {
+      "id": "based",
+      "creative_id": "based",
+      "title": "BASED.",
+      "media_type": "image",
+      "path": "images/based.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/based.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 175075,
+      "sha256": "9831ab3ec7f0089c21688da1b5337b8b1c6be0578d3b006182ca96b46e84797c",
+      "captions": [
+        "based. he nodded once. that's a standing ovation from him.",
+        "based. he nodded once. that's a standing ovation from him. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS gives a restrained thumbs-up with a calm, approving single eye.",
+      "tags": [
+        "based",
+        "approval",
+        "reaction"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/based.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/based.jpg"
+    },
+    {
+      "id": "wen-moon",
+      "creative_id": "wen-moon",
+      "title": "WEN MOON?",
+      "media_type": "image",
+      "path": "images/wen-moon.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/wen-moon.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 171711,
+      "sha256": "1dd548051f688838daf9887dba18ef2865decec2ec54fe690da9e559bd2acc65",
+      "captions": [
+        "wen moon? whenever the sandwich is ready.",
+        "wen moon? whenever the sandwich is ready. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS in a black-and-gold spacesuit holds a sandwich beside a tiny rocket.",
+      "tags": [
+        "wen-moon",
+        "space",
+        "reaction"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/wen-moon.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/wen-moon.jpg"
+    },
+    {
+      "id": "wagmi",
+      "creative_id": "wagmi",
+      "title": "WAGMI.",
+      "media_type": "image",
+      "path": "images/wagmi.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/wagmi.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 179702,
+      "sha256": "d65731cf48f5c1785888ca686c87ddccf176b69810abe48225822f26bc9e7298",
+      "captions": [
+        "the blind spot has room. he saved you a seat. 👁️",
+        "the blind spot has room. he saved you a seat. 👁️ $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS pulls out an empty chair at a table with a spare coffee waiting.",
+      "tags": [
+        "wagmi",
+        "welcome",
+        "community"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/wagmi.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/wagmi.jpg"
+    },
+    {
+      "id": "ngmi",
+      "creative_id": "ngmi",
+      "title": "NGMI.",
+      "media_type": "image",
+      "path": "images/ngmi.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/ngmi.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 165344,
+      "sha256": "f2d98db2cd11d7ccb0344f4d60ff163f800d6bc35b4a0b43823dd96baf11b2c0",
+      "captions": [
+        "ngmi. the bus left three minutes ago.",
+        "ngmi. the bus left three minutes ago. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS waits with coffee at a bus stop as a small bus disappears down the road.",
+      "tags": [
+        "ngmi",
+        "reaction",
+        "late"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/ngmi.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/ngmi.jpg"
+    },
+    {
+      "id": "ser",
+      "creative_id": "ser",
+      "title": "SER.",
+      "media_type": "image",
+      "path": "images/ser.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/ser.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 129144,
+      "sha256": "802d686f64ee4eb0884069d77cf61826c3a141197dd6c4927a54fb153ef6ff8b",
+      "captions": [
+        "ser. we have one eye and several questions.",
+        "ser. we have one eye and several questions. $ZYCL"
+      ],
+      "alt_text": "An unimpressed ZYCLOPS gestures toward a redacted eye chart with a pointer.",
+      "tags": [
+        "ser",
+        "reply",
+        "reaction"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "thumbnail_path": "thumbs/ser.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/ser.jpg"
+    },
+    {
+      "id": "gm-motion",
+      "creative_id": "gm",
+      "title": "GM. (motion)",
+      "media_type": "video",
+      "path": "video/gm-motion.mp4",
+      "url": "https://zyclops.xyz/media-vault/video/gm-motion.mp4",
+      "mime_type": "video/mp4",
+      "width": 720,
+      "height": 720,
+      "bytes": 645342,
+      "sha256": "6f245a2bf226618000cd6eb06082edca4ed2854ed50e73caaafb9dc0cf44a7df",
+      "captions": [
+        "gm. the eye is open. the brain has requested an extension. ☕",
+        "gm. the eye is open. the brain has requested an extension. ☕ $ZYCL"
+      ],
+      "alt_text": "Sleepy ZYCLOPS with one half-open gold eye holds a coffee mug beside a croissant.",
+      "tags": [
+        "gm",
+        "morning",
+        "coffee"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "duration_seconds": 6,
+      "animation_type": "motion_poster",
+      "thumbnail_path": "thumbs/gm.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/gm.jpg",
+      "poster_path": "images/gm.jpg",
+      "poster_url": "https://zyclops.xyz/media-vault/images/gm.jpg"
+    },
+    {
+      "id": "this-is-fine-motion",
+      "creative_id": "this-is-fine",
+      "title": "THIS IS FINE. (motion)",
+      "media_type": "video",
+      "path": "video/this-is-fine-motion.mp4",
+      "url": "https://zyclops.xyz/media-vault/video/this-is-fine-motion.mp4",
+      "mime_type": "video/mp4",
+      "width": 720,
+      "height": 720,
+      "bytes": 895783,
+      "sha256": "c21174d0af3cb0fd83e69ab45534c62c1dc9cba5ccace4cd00d9e9b45b58cfe2",
+      "captions": [
+        "this is fine. the coffee is still warm.",
+        "this is fine. the coffee is still warm. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS calmly drinks coffee while harmless cartoon gold flames surround his chair.",
+      "tags": [
+        "this-is-fine",
+        "reaction",
+        "chaos"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "duration_seconds": 6,
+      "animation_type": "motion_poster",
+      "thumbnail_path": "thumbs/this-is-fine.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/this-is-fine.jpg",
+      "poster_path": "images/this-is-fine.jpg",
+      "poster_url": "https://zyclops.xyz/media-vault/images/this-is-fine.jpg"
+    },
+    {
+      "id": "hodl-motion",
+      "creative_id": "hodl",
+      "title": "HODL. (motion)",
+      "media_type": "video",
+      "path": "video/hodl-motion.mp4",
+      "url": "https://zyclops.xyz/media-vault/video/hodl-motion.mp4",
+      "mime_type": "video/mp4",
+      "width": 720,
+      "height": 720,
+      "bytes": 816726,
+      "sha256": "9ab498f2d8581b7801809d003f1c7d9561f82364a4975f9ecc366bc505aad977",
+      "captions": [
+        "hodl. he was talking about the mug.",
+        "hodl. he was talking about the mug. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS grips his coffee mug with both hands while papers blow around him.",
+      "tags": [
+        "hodl",
+        "reaction",
+        "patience"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "duration_seconds": 6,
+      "animation_type": "motion_poster",
+      "thumbnail_path": "thumbs/hodl.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/hodl.jpg",
+      "poster_path": "images/hodl.jpg",
+      "poster_url": "https://zyclops.xyz/media-vault/images/hodl.jpg"
+    },
+    {
+      "id": "lurking-motion",
+      "creative_id": "lurking",
+      "title": "LURKING. (motion)",
+      "media_type": "video",
+      "path": "video/lurking-motion.mp4",
+      "url": "https://zyclops.xyz/media-vault/video/lurking-motion.mp4",
+      "mime_type": "video/mp4",
+      "width": 720,
+      "height": 720,
+      "bytes": 597256,
+      "sha256": "8a99dd27de197b57905db06333cfafd1dad923717ed25fed259af86beaf9543e",
+      "captions": [
+        "quiet in the chat. aggressively present in spirit. 👁️",
+        "quiet in the chat. aggressively present in spirit. 👁️ $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS peers around a dark curtain with one large golden eye.",
+      "tags": [
+        "lurking",
+        "community",
+        "reaction"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "duration_seconds": 6,
+      "animation_type": "motion_poster",
+      "thumbnail_path": "thumbs/lurking.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/lurking.jpg",
+      "poster_path": "images/lurking.jpg",
+      "poster_url": "https://zyclops.xyz/media-vault/images/lurking.jpg"
+    },
+    {
+      "id": "pump-motion",
+      "creative_id": "pump",
+      "title": "PUMP. (motion)",
+      "media_type": "video",
+      "path": "video/pump-motion.mp4",
+      "url": "https://zyclops.xyz/media-vault/video/pump-motion.mp4",
+      "mime_type": "video/mp4",
+      "width": 720,
+      "height": 720,
+      "bytes": 713664,
+      "sha256": "9d6e6a811000e6304c5ec9e2fcaf05a43bad38e752f4a5c2e2c4b94ba8f5358a",
+      "captions": [
+        "someone said pump. he understood the assignment differently.",
+        "someone said pump. he understood the assignment differently. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS operates a bicycle pump beside a flat bicycle tire.",
+      "tags": [
+        "pump",
+        "reaction",
+        "literal"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "duration_seconds": 6,
+      "animation_type": "motion_poster",
+      "thumbnail_path": "thumbs/pump.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/pump.jpg",
+      "poster_path": "images/pump.jpg",
+      "poster_url": "https://zyclops.xyz/media-vault/images/pump.jpg"
+    },
+    {
+      "id": "gm-loop",
+      "creative_id": "gm",
+      "title": "GM. (loop)",
+      "media_type": "video",
+      "path": "video/gm-loop.mp4",
+      "url": "https://zyclops.xyz/media-vault/video/gm-loop.mp4",
+      "mime_type": "video/mp4",
+      "width": 720,
+      "height": 720,
+      "bytes": 156545,
+      "sha256": "37eb5efd734ccfceddf56adcbb9c56d23c6b4c9c0c44c929f3a85160aff0573c",
+      "captions": [
+        "gm. the eye is open. the brain has requested an extension. ☕",
+        "gm. the eye is open. the brain has requested an extension. ☕ $ZYCL"
+      ],
+      "alt_text": "Sleepy ZYCLOPS with one half-open gold eye holds a coffee mug beside a croissant.",
+      "tags": [
+        "gm",
+        "morning",
+        "coffee"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "duration_seconds": 6,
+      "animation_type": "character_loop",
+      "thumbnail_path": "thumbs/gm.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/gm.jpg",
+      "poster_path": "images/gm.jpg",
+      "poster_url": "https://zyclops.xyz/media-vault/images/gm.jpg"
+    },
+    {
+      "id": "pump-loop",
+      "creative_id": "pump",
+      "title": "PUMP. (loop)",
+      "media_type": "video",
+      "path": "video/pump-loop.mp4",
+      "url": "https://zyclops.xyz/media-vault/video/pump-loop.mp4",
+      "mime_type": "video/mp4",
+      "width": 720,
+      "height": 720,
+      "bytes": 375589,
+      "sha256": "0807a1cc1f25ac7ea673ace0b4559a919cf5cceb0113e20e070afc3ccdaa3947",
+      "captions": [
+        "someone said pump. he understood the assignment differently.",
+        "someone said pump. he understood the assignment differently. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS operates a bicycle pump beside a flat bicycle tire.",
+      "tags": [
+        "pump",
+        "reaction",
+        "literal"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "duration_seconds": 6,
+      "animation_type": "character_loop",
+      "thumbnail_path": "thumbs/pump.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/pump.jpg",
+      "poster_path": "images/pump.jpg",
+      "poster_url": "https://zyclops.xyz/media-vault/images/pump.jpg"
+    },
+    {
+      "id": "this-is-fine-loop",
+      "creative_id": "this-is-fine",
+      "title": "THIS IS FINE. (loop)",
+      "media_type": "video",
+      "path": "video/this-is-fine-loop.mp4",
+      "url": "https://zyclops.xyz/media-vault/video/this-is-fine-loop.mp4",
+      "mime_type": "video/mp4",
+      "width": 720,
+      "height": 720,
+      "bytes": 119714,
+      "sha256": "7f1c9bd0d12949c06fbdf6262ff0878724dac5925f12d8b28ea988dad6e011bb",
+      "captions": [
+        "this is fine. the coffee is still warm.",
+        "this is fine. the coffee is still warm. $ZYCL"
+      ],
+      "alt_text": "ZYCLOPS calmly drinks coffee while harmless cartoon gold flames surround his chair.",
+      "tags": [
+        "this-is-fine",
+        "reaction",
+        "chaos"
+      ],
+      "theme": "meme",
+      "suggested_context": "timeline reaction",
+      "suggested_cooldown_hours": 48,
+      "duration_seconds": 6,
+      "animation_type": "character_loop",
+      "thumbnail_path": "thumbs/this-is-fine.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/this-is-fine.jpg",
+      "poster_path": "images/this-is-fine.jpg",
+      "poster_url": "https://zyclops.xyz/media-vault/images/this-is-fine.jpg"
+    }
+  ]
+}
