@@ -101,12 +101,14 @@ def main():
             row = {key: asset.get(key, "") for key in fields}
             row.update(caption=asset["captions"][0], tags="|".join(asset["tags"]))
             writer.writerow(row)
-    bundle = VAULT / "zyclops-media-pack-v4.zip"
+    version = manifest.get("pack_version", 4)
+    assert isinstance(version, int) and version >= 4
+    bundle = VAULT / f"zyclops-media-pack-v{version}.zip"
     with zipfile.ZipFile(bundle, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=6) as archive:
         for relative in sorted(paths):
             archive.write(VAULT / relative, "media-vault/" + relative)
-    for version in (1, 2, 3):
-        shutil.copyfile(bundle, VAULT / f"zyclops-media-pack-v{version}.zip")
+    for previous_version in range(1, version):
+        shutil.copyfile(bundle, VAULT / f"zyclops-media-pack-v{previous_version}.zip")
     with zipfile.ZipFile(bundle) as archive:
         assert archive.testzip() is None
     print(

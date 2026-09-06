@@ -376,5 +376,253 @@
     ],
     "alt": "ZYCLOPS sits in a brick vault holding a gold lantern among stored boxes.",
     "kind": "artwork"
+  },
+  {
+    "id": "lfg",
+    "title": "LFG.",
+    "headline": "LFG.",
+    "punchline": "HE FOUND THE EXIT.",
+    "scene": "ZYCLOPS enthusiastically striding toward an open door, holding a small travel bag, with one simple gold arrow on the wall. Comically determined expression.",
+    "caption": "lfg. he found the exit. the destination is still under review.",
+    "tags": [
+      "lfg",
+      "reaction",
+      "energy"
+    ],
+    "alt": "ZYCLOPS strides toward an open door carrying a small travel bag.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS enthusiastically striding toward an open door, holding a small travel bag, with one simple gold arrow on the wall. Comically determined expression.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"LFG.\". Exact punchline: \"HE FOUND THE EXIT.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "fomo",
+    "title": "FOMO.",
+    "headline": "FOMO.",
+    "punchline": "HE HEARD THERE WERE SNACKS.",
+    "scene": "ZYCLOPS rushing into a dark kitchen toward an inviting table of tiny gold pastries, one giant hand reaching out. His single eye is wide with snack-related urgency.",
+    "caption": "fomo. someone mentioned snacks and he lost all perspective.",
+    "tags": [
+      "fomo",
+      "reaction",
+      "snacks"
+    ],
+    "alt": "ZYCLOPS hurries toward a table of pastries with a wide golden eye.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS rushing into a dark kitchen toward an inviting table of tiny gold pastries, one giant hand reaching out. His single eye is wide with snack-related urgency.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"FOMO.\". Exact punchline: \"HE HEARD THERE WERE SNACKS.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "dyor",
+    "title": "DYOR.",
+    "headline": "DYOR.",
+    "punchline": "ONE EYE. MANY QUESTIONS.",
+    "scene": "ZYCLOPS seated at a cluttered study desk, carefully inspecting a redacted paper with a small magnifying glass held below and away from his face. Open books, pencils, papers. Exactly one eye, not magnified or duplicated.",
+    "caption": "dyor. one eye. many questions. increasingly large pile of notes.",
+    "tags": [
+      "dyor",
+      "research",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS studies redacted papers at a desk piled with open books.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS seated at a cluttered study desk, carefully inspecting a redacted paper with a small magnifying glass held below and away from his face. Open books, pencils, papers. Exactly one eye, not magnified or duplicated.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"DYOR.\". Exact punchline: \"ONE EYE. MANY QUESTIONS.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "let-him-cook",
+    "title": "LET HIM COOK.",
+    "headline": "LET HIM COOK.",
+    "punchline": "THE RECIPE IS REDACTED.",
+    "scene": "ZYCLOPS in a charcoal apron thoughtfully stirring a gold-rimmed cooking pot with a wooden spoon, studying a recipe card covered in black redaction bars. Cheerfully serious home-kitchen scene.",
+    "caption": "let him cook. the recipe is redacted. dinner remains classified.",
+    "tags": [
+      "cooking",
+      "reaction",
+      "privacy"
+    ],
+    "alt": "ZYCLOPS stirs a pot while consulting a heavily redacted recipe.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS in a charcoal apron thoughtfully stirring a gold-rimmed cooking pot with a wooden spoon, studying a recipe card covered in black redaction bars. Cheerfully serious home-kitchen scene.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"LET HIM COOK.\". Exact punchline: \"THE RECIPE IS REDACTED.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "big-if-true",
+    "title": "BIG IF TRUE.",
+    "headline": "BIG IF TRUE.",
+    "punchline": "SMALL SAMPLE SIZE.",
+    "scene": "The enormous bulky ZYCLOPS solemnly examines one tiny seed resting in the palm of his massive gold hand. His large single eye is skeptical. Simple charcoal background with subtle gold rays, comical scale contrast.",
+    "caption": "big if true. currently working with a sample size of one.",
+    "tags": [
+      "big-if-true",
+      "skeptical",
+      "reaction"
+    ],
+    "alt": "A skeptical ZYCLOPS examines one tiny seed in his enormous palm.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: The enormous bulky ZYCLOPS solemnly examines one tiny seed resting in the palm of his massive gold hand. His large single eye is skeptical. Simple charcoal background with subtle gold rays, comical scale contrast.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"BIG IF TRUE.\". Exact punchline: \"SMALL SAMPLE SIZE.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "we-are-back",
+    "title": "WE'RE SO BACK.",
+    "headline": "WE'RE SO BACK.",
+    "punchline": "HE FOUND HIS KEYS.",
+    "scene": "ZYCLOPS at his front door triumphantly lifting a small ring of house keys, relieved single-eye expression. Dark home hallway with warm gold light. No other characters.",
+    "caption": "we're so back. he found his keys in the pocket he checked twice.",
+    "tags": [
+      "we-are-back",
+      "reaction",
+      "relief"
+    ],
+    "alt": "ZYCLOPS triumphantly holds up his house keys beside a doorway.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS at his front door triumphantly lifting a small ring of house keys, relieved single-eye expression. Dark home hallway with warm gold light. No other characters.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"WE'RE SO BACK.\". Exact punchline: \"HE FOUND HIS KEYS.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "its-over",
+    "title": "IT'S OVER.",
+    "headline": "IT'S OVER.",
+    "punchline": "THE COFFEE RAN OUT.",
+    "scene": "Devastated ZYCLOPS sits at a kitchen table, holding an empty coffee mug upside down. One last tiny drop falls. His other hand rests beside an open empty coffee tin, expression exaggerated but deadpan.",
+    "caption": "it's over. the coffee ran out. please respect his privacy.",
+    "tags": [
+      "its-over",
+      "coffee",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS tilts an empty mug over an open coffee tin, letting the last drop fall.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: Devastated ZYCLOPS sits at a kitchen table, holding an empty coffee mug upside down. One last tiny drop falls. His other hand rests beside an open empty coffee tin, expression exaggerated but deadpan.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"IT'S OVER.\". Exact punchline: \"THE COFFEE RAN OUT.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "few",
+    "title": "FEW.",
+    "headline": "FEW.",
+    "punchline": "HE COUNTED TWICE.",
+    "scene": "ZYCLOPS carefully counts exactly three small biscuits on a dark table with one massive gold pointing finger, a quietly puzzled expression in his single eye. Clean intimate composition.",
+    "caption": "few. three, apparently. he counted twice.",
+    "tags": [
+      "few",
+      "reaction",
+      "deadpan"
+    ],
+    "alt": "ZYCLOPS counts three biscuits with one large pointing finger.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS carefully counts exactly three small biscuits on a dark table with one massive gold pointing finger, a quietly puzzled expression in his single eye. Clean intimate composition.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"FEW.\". Exact punchline: \"HE COUNTED TWICE.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "send-it",
+    "title": "SEND IT.",
+    "headline": "SEND IT.",
+    "punchline": "HE MEANT THE POSTCARD.",
+    "scene": "ZYCLOPS carefully posting a small plain postcard into a vintage charcoal mailbox with warm gold trim. His huge hand and the tiny postcard make a funny scale contrast. No readable address or extra lettering.",
+    "caption": "send it. he meant the postcard. handwriting remains unverified.",
+    "tags": [
+      "send-it",
+      "reaction",
+      "postcard"
+    ],
+    "alt": "ZYCLOPS slips a small postcard into a vintage mailbox.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS carefully posting a small plain postcard into a vintage charcoal mailbox with warm gold trim. His huge hand and the tiny postcard make a funny scale contrast. No readable address or extra lettering.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"SEND IT.\". Exact punchline: \"HE MEANT THE POSTCARD.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "no-signal",
+    "title": "NO SIGNAL.",
+    "headline": "NO SIGNAL.",
+    "punchline": "STILL IN THE CHAT.",
+    "scene": "ZYCLOPS standing under a gold-lit street lamp, raising an old mobile phone above his head, determined to find reception. Phone screen is just one simple crossed-out signal icon, no words. His single eye looks unimpressed.",
+    "caption": "no signal. still somehow reading every message.",
+    "tags": [
+      "no-signal",
+      "community",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS raises a phone beneath a street lamp while searching for reception.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS standing under a gold-lit street lamp, raising an old mobile phone above his head, determined to find reception. Phone screen is just one simple crossed-out signal icon, no words. His single eye looks unimpressed.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"NO SIGNAL.\". Exact punchline: \"STILL IN THE CHAT.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "patience",
+    "title": "PATIENCE.",
+    "headline": "PATIENCE.",
+    "punchline": "HE'S WATCHING PAINT DRY.",
+    "scene": "ZYCLOPS sits solemnly on a tiny stool facing a freshly painted gold patch on a charcoal wall, paintbrush and gold paint tin beside him. Three-quarter view shows exactly one central eye and angular beard. Comically intense concentration.",
+    "caption": "patience. he's watching paint dry and taking it personally.",
+    "tags": [
+      "patience",
+      "waiting",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS sits on a small stool watching a freshly painted wall.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS sits solemnly on a tiny stool facing a freshly painted gold patch on a charcoal wall, paintbrush and gold paint tin beside him. Three-quarter view shows exactly one central eye and angular beard. Comically intense concentration.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"PATIENCE.\". Exact punchline: \"HE'S WATCHING PAINT DRY.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "bullish",
+    "title": "BULLISH.",
+    "headline": "BULLISH.",
+    "punchline": "THE PLANT LOOKS HEALTHY.",
+    "scene": "ZYCLOPS proudly and tenderly presenting a small thriving houseplant in a charcoal pot. Botanical leaves rendered in warm ochre gold and cream, no green. His one eye shows cautious optimism. No charts or coins.",
+    "caption": "bullish. the plant grew a leaf. morale is improving.",
+    "tags": [
+      "bullish",
+      "plant",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS proudly holds a small healthy houseplant with golden leaves.",
+    "kind": "meme",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS reaction meme.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS proudly and tenderly presenting a small thriving houseplant in a charcoal pot. Botanical leaves rendered in warm ochre gold and cream, no green. His one eye shows cautious optimism. No charts or coins.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nTypography: match reference image 1. Large cream condensed bold uppercase headline at top, gold uppercase punchline at bottom, small cream footer underneath. Exact headline: \"BULLISH.\". Exact punchline: \"THE PLANT LOOKS HEALTHY.\". Exact footer: \"ZYCLOPS · $ZYCL\". Keep all text fully inside a 5% safe margin; do not clip or invent any lettering.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "dune-walker",
+    "title": "Dune walker",
+    "kind": "artwork",
+    "scene": "ZYCLOPS in a charcoal travelling cloak walking through sweeping ochre dunes toward monumental dark stone ruins at dusk. Three-quarter frontal view preserves his one large central golden eye and angular beard. Gold dust in the wind, warm horizon, layered ink silhouettes. Main character occupies at least half of the image height.",
+    "caption": "low visibility. excellent direction. allegedly.",
+    "tags": [
+      "artwork",
+      "desert",
+      "holder-art"
+    ],
+    "alt": "Cloaked ZYCLOPS walks through gold dunes toward ancient dark ruins.",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS holder illustration.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS in a charcoal travelling cloak walking through sweeping ochre dunes toward monumental dark stone ruins at dusk. Three-quarter frontal view preserves his one large central golden eye and angular beard. Gold dust in the wind, warm horizon, layered ink silhouettes. Main character occupies at least half of the image height.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nNo meme headline and no scene lettering. The only text is a small discreet cream \"ZYCLOPS · $ZYCL\" footer fully inside a 5% safe margin.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "star-reader",
+    "title": "Star reader",
+    "kind": "artwork",
+    "scene": "ZYCLOPS on a stone observatory balcony under a richly illustrated black sky of fine gold constellations, holding an open celestial atlas. A brass telescope stands next to him, not covering his face. One large golden eye and heavy angular beard. Intimate three-quarter portrait with deep architecture and elegant gold arcs.",
+    "caption": "reading the stars. still ignoring the instructions.",
+    "tags": [
+      "artwork",
+      "stars",
+      "holder-art"
+    ],
+    "alt": "ZYCLOPS holds a celestial atlas on an observatory balcony beneath golden constellations.",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS holder illustration.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS on a stone observatory balcony under a richly illustrated black sky of fine gold constellations, holding an open celestial atlas. A brass telescope stands next to him, not covering his face. One large golden eye and heavy angular beard. Intimate three-quarter portrait with deep architecture and elegant gold arcs.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nNo meme headline and no scene lettering. The only text is a small discreet cream \"ZYCLOPS · $ZYCL\" footer fully inside a 5% safe margin.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "night-ferry",
+    "title": "Night ferry",
+    "kind": "artwork",
+    "scene": "ZYCLOPS seated calmly in the bow of a small dark wooden ferry on a quiet ink-black sea. Three-quarter frontal view of his one large golden eye. A tall distant lighthouse casts warm ochre-gold light across intricately drawn ripples, dark cliffs and tiny gold stars. No other people. Strong textured illustration, unmistakably the reference mascot.",
+    "caption": "quiet crossing. loud group chat.",
+    "tags": [
+      "artwork",
+      "sea",
+      "holder-art"
+    ],
+    "alt": "ZYCLOPS rides a wooden ferry across dark water beneath a distant golden lighthouse.",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS holder illustration.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS seated calmly in the bow of a small dark wooden ferry on a quiet ink-black sea. Three-quarter frontal view of his one large golden eye. A tall distant lighthouse casts warm ochre-gold light across intricately drawn ripples, dark cliffs and tiny gold stars. No other people. Strong textured illustration, unmistakably the reference mascot.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nNo meme headline and no scene lettering. The only text is a small discreet cream \"ZYCLOPS · $ZYCL\" footer fully inside a 5% safe margin.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
+  },
+  {
+    "id": "midnight-market",
+    "title": "Midnight market",
+    "kind": "artwork",
+    "scene": "ZYCLOPS walking through a cozy closed midnight market with warm gold hanging lanterns, dark timber stalls, baskets of fruit rendered in ochre, carrying a modest paper bag of groceries. Three-quarter frontal view with exactly one large golden eye. No other people or readable signage. Layered ornate 2D illustration in the same reference ink style.",
+    "caption": "midnight essentials. questionable shopping list.",
+    "tags": [
+      "artwork",
+      "market",
+      "holder-art"
+    ],
+    "alt": "ZYCLOPS carries groceries through a lantern-lit midnight market.",
+    "prompt": "Use case: illustration-story.\nAsset type: ONE new square ZYCLOPS holder illustration.\nInput images: image 1 and image 2 are character and 2D illustration style references only, not edit targets. Match their exact mascot anatomy, single large central cream-and-gold eye, broad angular black beard, large gold hands, charcoal clothing, heavy drawn contours and tactile screenprint ink texture. Create a genuinely new scene.\nScene: ZYCLOPS walking through a cozy closed midnight market with warm gold hanging lanterns, dark timber stalls, baskets of fruit rendered in ochre, carrying a modest paper bag of groceries. Three-quarter frontal view with exactly one large golden eye. No other people or readable signage. Layered ornate 2D illustration in the same reference ink style.\nStyle: cohesive hand-illustrated 2D ink, charcoal black, warm ochre gold and cream ONLY. Sharp expressive contour shapes with restrained paper grain. NOT glossy 3D, NOT photorealistic, NOT a plastic render, NOT a flat geometric/vector poster, no gray outer frame. Full-bleed square composition, subject clearly readable on a phone.\nNo meme headline and no scene lettering. The only text is a small discreet cream \"ZYCLOPS · $ZYCL\" footer fully inside a 5% safe margin.\nConstraints: exactly ONE eye, no extra eye sockets, preserve mascot identity, natural hands, no prices or charts, no promotional promises. Do not copy GM text, coffee or campfire props from the references unless the new scene explicitly calls for them."
   }
 ]

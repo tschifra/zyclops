@@ -1,10 +1,506 @@
 {
   "schema_version": "1.0",
-  "library_version": "2026-09-06.4",
+  "library_version": "2026-09-06.5",
   "name": "ZYCLOPS media vault",
   "home": "https://zyclops.xyz/",
   "gallery": "https://zyclops.xyz/media-vault/",
   "assets": [
+    {
+      "id": "zyclops-lfg-v1",
+      "creative_id": "lfg",
+      "title": "LFG.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-lfg-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-lfg-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 663304,
+      "sha256": "ba18466250e127531db6d43d4bdb28bee34640f7b8cdb5995be34ec4a18914b1",
+      "thumbnail_path": "thumbs/zyclops-lfg-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-lfg-v1.jpg",
+      "captions": [
+        "lfg. he found the exit. the destination is still under review.",
+        "lfg. he found the exit. the destination is still under review.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS strides toward an open door carrying a small travel bag.",
+      "tags": [
+        "lfg",
+        "reaction",
+        "energy"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "lfg"
+    },
+    {
+      "id": "zyclops-fomo-v1",
+      "creative_id": "fomo",
+      "title": "FOMO.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-fomo-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-fomo-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 750846,
+      "sha256": "8411b6ef2a3ae1777304151d03f88630f1875135f7c1853c107c9d4f93c38357",
+      "thumbnail_path": "thumbs/zyclops-fomo-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-fomo-v1.jpg",
+      "captions": [
+        "fomo. someone mentioned snacks and he lost all perspective.",
+        "fomo. someone mentioned snacks and he lost all perspective.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS hurries toward a table of pastries with a wide golden eye.",
+      "tags": [
+        "fomo",
+        "reaction",
+        "snacks"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "fomo"
+    },
+    {
+      "id": "zyclops-dyor-v1",
+      "creative_id": "dyor",
+      "title": "DYOR.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-dyor-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-dyor-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 851284,
+      "sha256": "b596ad2e29e3e112ab53a9ec98878efd0b822db8f50bd15adf3677785ce64130",
+      "thumbnail_path": "thumbs/zyclops-dyor-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-dyor-v1.jpg",
+      "captions": [
+        "dyor. one eye. many questions. increasingly large pile of notes.",
+        "dyor. one eye. many questions. increasingly large pile of notes.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS studies redacted papers at a desk piled with open books.",
+      "tags": [
+        "dyor",
+        "research",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "dyor"
+    },
+    {
+      "id": "zyclops-let-him-cook-v1",
+      "creative_id": "let-him-cook",
+      "title": "LET HIM COOK.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-let-him-cook-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-let-him-cook-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 722864,
+      "sha256": "e79f690aa8d5ccf42c4d07d5a0211a887e43d825bf82bfbf5dfe1419000b46b0",
+      "thumbnail_path": "thumbs/zyclops-let-him-cook-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-let-him-cook-v1.jpg",
+      "captions": [
+        "let him cook. the recipe is redacted. dinner remains classified.",
+        "let him cook. the recipe is redacted. dinner remains classified.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS stirs a pot while consulting a heavily redacted recipe.",
+      "tags": [
+        "cooking",
+        "reaction",
+        "privacy"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "let-him-cook"
+    },
+    {
+      "id": "zyclops-big-if-true-v1",
+      "creative_id": "big-if-true",
+      "title": "BIG IF TRUE.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-big-if-true-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-big-if-true-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 657939,
+      "sha256": "5f6a3894f2f5416c0b08b5c07a79781be9e7cda882b261c2791fa0d0b53e893a",
+      "thumbnail_path": "thumbs/zyclops-big-if-true-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-big-if-true-v1.jpg",
+      "captions": [
+        "big if true. currently working with a sample size of one.",
+        "big if true. currently working with a sample size of one.\n\n$ZYCL"
+      ],
+      "alt_text": "A skeptical ZYCLOPS examines one tiny seed in his enormous palm.",
+      "tags": [
+        "big-if-true",
+        "skeptical",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "big-if-true"
+    },
+    {
+      "id": "zyclops-we-are-back-v1",
+      "creative_id": "we-are-back",
+      "title": "WE'RE SO BACK.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-we-are-back-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-we-are-back-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 661223,
+      "sha256": "0cd57d02345aecf3ac8d6a1abf506a702c08b59dcc7a14a5a4984acba30e7ebb",
+      "thumbnail_path": "thumbs/zyclops-we-are-back-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-we-are-back-v1.jpg",
+      "captions": [
+        "we're so back. he found his keys in the pocket he checked twice.",
+        "we're so back. he found his keys in the pocket he checked twice.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS triumphantly holds up his house keys beside a doorway.",
+      "tags": [
+        "we-are-back",
+        "reaction",
+        "relief"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "we-are-back"
+    },
+    {
+      "id": "zyclops-its-over-v1",
+      "creative_id": "its-over",
+      "title": "IT'S OVER.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-its-over-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-its-over-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 669135,
+      "sha256": "274564d468b897cc6e945b64a0b9347dd15ba8280ebaca9ad7e913ebdbd5d09b",
+      "thumbnail_path": "thumbs/zyclops-its-over-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-its-over-v1.jpg",
+      "captions": [
+        "it's over. the coffee ran out. please respect his privacy.",
+        "it's over. the coffee ran out. please respect his privacy.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS tilts an empty mug over an open coffee tin, letting the last drop fall.",
+      "tags": [
+        "its-over",
+        "coffee",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "its-over"
+    },
+    {
+      "id": "zyclops-few-v1",
+      "creative_id": "few",
+      "title": "FEW.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-few-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-few-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 634879,
+      "sha256": "139b4dfe7280c700ac39d149bf15e13246ac927de24a628213eaa9671d60ab06",
+      "thumbnail_path": "thumbs/zyclops-few-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-few-v1.jpg",
+      "captions": [
+        "few. three, apparently. he counted twice.",
+        "few. three, apparently. he counted twice.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS counts three biscuits with one large pointing finger.",
+      "tags": [
+        "few",
+        "reaction",
+        "deadpan"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "few"
+    },
+    {
+      "id": "zyclops-send-it-v1",
+      "creative_id": "send-it",
+      "title": "SEND IT.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-send-it-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-send-it-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 680615,
+      "sha256": "aa64cdc0dccf528e3f2e51b51ec7ca8a2da7d54e355bf740f468a2a5b1e4dccc",
+      "thumbnail_path": "thumbs/zyclops-send-it-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-send-it-v1.jpg",
+      "captions": [
+        "send it. he meant the postcard. handwriting remains unverified.",
+        "send it. he meant the postcard. handwriting remains unverified.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS slips a small postcard into a vintage mailbox.",
+      "tags": [
+        "send-it",
+        "reaction",
+        "postcard"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "send-it"
+    },
+    {
+      "id": "zyclops-no-signal-v1",
+      "creative_id": "no-signal",
+      "title": "NO SIGNAL.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-no-signal-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-no-signal-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 636481,
+      "sha256": "f0e727c27b4273a7168190993a5bb3d935fce6ef2298c220da53393c3bf0560f",
+      "thumbnail_path": "thumbs/zyclops-no-signal-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-no-signal-v1.jpg",
+      "captions": [
+        "no signal. still somehow reading every message.",
+        "no signal. still somehow reading every message.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS raises a phone beneath a street lamp while searching for reception.",
+      "tags": [
+        "no-signal",
+        "community",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "no-signal"
+    },
+    {
+      "id": "zyclops-patience-v1",
+      "creative_id": "patience",
+      "title": "PATIENCE.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-patience-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-patience-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 675816,
+      "sha256": "1d22a7cf054600e7155cbecdf0c9b9b4f923c7352bbe52b5f99e46434946480c",
+      "thumbnail_path": "thumbs/zyclops-patience-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-patience-v1.jpg",
+      "captions": [
+        "patience. he's watching paint dry and taking it personally.",
+        "patience. he's watching paint dry and taking it personally.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS sits on a small stool watching a freshly painted wall.",
+      "tags": [
+        "patience",
+        "waiting",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "patience"
+    },
+    {
+      "id": "zyclops-bullish-v1",
+      "creative_id": "bullish",
+      "title": "BULLISH.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-bullish-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-bullish-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 775498,
+      "sha256": "132fbeca0a7bf86c06edab17a72e266a87d88d7ae3a49c45ff3b93252da7e281",
+      "thumbnail_path": "thumbs/zyclops-bullish-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-bullish-v1.jpg",
+      "captions": [
+        "bullish. the plant grew a leaf. morale is improving.",
+        "bullish. the plant grew a leaf. morale is improving.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS proudly holds a small healthy houseplant with golden leaves.",
+      "tags": [
+        "bullish",
+        "plant",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "bullish"
+    },
+    {
+      "id": "zyclops-dune-walker-v1",
+      "creative_id": "dune-walker",
+      "title": "Dune walker",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "images/zyclops-dune-walker-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-dune-walker-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 902733,
+      "sha256": "ede2e3ab751591276f09a78ec89571c4c684483e449e2a2488147d254372ab87",
+      "thumbnail_path": "thumbs/zyclops-dune-walker-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-dune-walker-v1.jpg",
+      "captions": [
+        "low visibility. excellent direction. allegedly.",
+        "low visibility. excellent direction. allegedly.\n\n$ZYCL"
+      ],
+      "alt_text": "Cloaked ZYCLOPS walks through gold dunes toward ancient dark ruins.",
+      "tags": [
+        "artwork",
+        "desert",
+        "holder-art"
+      ],
+      "suggested_context": "Holder illustration to share with your own caption.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "dune-walker"
+    },
+    {
+      "id": "zyclops-star-reader-v1",
+      "creative_id": "star-reader",
+      "title": "Star reader",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "images/zyclops-star-reader-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-star-reader-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 813787,
+      "sha256": "f92e4b7ad8b2552d1f93da341d4821f7e13ca1d77814af740b57947ccb932e44",
+      "thumbnail_path": "thumbs/zyclops-star-reader-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-star-reader-v1.jpg",
+      "captions": [
+        "reading the stars. still ignoring the instructions.",
+        "reading the stars. still ignoring the instructions.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS holds a celestial atlas on an observatory balcony beneath golden constellations.",
+      "tags": [
+        "artwork",
+        "stars",
+        "holder-art"
+      ],
+      "suggested_context": "Holder illustration to share with your own caption.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "star-reader"
+    },
+    {
+      "id": "zyclops-night-ferry-v1",
+      "creative_id": "night-ferry",
+      "title": "Night ferry",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "images/zyclops-night-ferry-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-night-ferry-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 670557,
+      "sha256": "e22b09ce0c79bc61493ce8d6b31ce852957e6e290d3265309118d2865030ca01",
+      "thumbnail_path": "thumbs/zyclops-night-ferry-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-night-ferry-v1.jpg",
+      "captions": [
+        "quiet crossing. loud group chat.",
+        "quiet crossing. loud group chat.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS rides a wooden ferry across dark water beneath a distant golden lighthouse.",
+      "tags": [
+        "artwork",
+        "sea",
+        "holder-art"
+      ],
+      "suggested_context": "Holder illustration to share with your own caption.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "night-ferry"
+    },
+    {
+      "id": "zyclops-midnight-market-v1",
+      "creative_id": "midnight-market",
+      "title": "Midnight market",
+      "theme": "artwork",
+      "collection": "artwork",
+      "media_type": "image",
+      "path": "images/zyclops-midnight-market-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-midnight-market-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 785798,
+      "sha256": "a3cf74f33e7835d933508e7e25e7707ff46e03a56335429263b978bccd8e8e96",
+      "thumbnail_path": "thumbs/zyclops-midnight-market-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-midnight-market-v1.jpg",
+      "captions": [
+        "midnight essentials. questionable shopping list.",
+        "midnight essentials. questionable shopping list.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS carries groceries through a lantern-lit midnight market.",
+      "tags": [
+        "artwork",
+        "market",
+        "holder-art"
+      ],
+      "suggested_context": "Holder illustration to share with your own caption.",
+      "suggested_cooldown_hours": 72,
+      "release": 5,
+      "topic": "midnight-market"
+    },
     {
       "id": "zyclops-touch-grass-v1",
       "creative_id": "touch-grass",
@@ -1217,7 +1713,7 @@
   "base_url": "https://zyclops.xyz/media-vault/",
   "access": "Unlisted, publicly accessible by URL; not authenticated.",
   "counts": {
-    "images": 26,
+    "images": 42,
     "videos": 0,
     "loops": 8,
     "gif_alternates": 0,
@@ -1249,5 +1745,6 @@
     "zyclops-pump-fists-v1",
     "zyclops-rain-motion-v1",
     "zyclops-sentinel-motion-v1"
-  ]
+  ],
+  "pack_version": 5
 }
