@@ -47,6 +47,7 @@
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header">
+      <span class="reading-progress" aria-hidden="true"></span>
       <div class="header-inner">
         <a class="brand" href="#top" aria-label="ZYCLOPS home">
           <img src="assets/optimized/logo.webp" alt="" width="44" height="44" />
@@ -56,6 +57,17 @@
           <a href="#lore">The cyclops</a><a href="#buy">How to buy</a
           ><a href="#memes">Meme vault</a><a href="#stickers">Stickers</a
           ><a href="#community">The blind spot</a>
+          <button
+            class="motion-toggle"
+            id="motion-toggle"
+            type="button"
+            hidden
+            aria-label="Pause animations"
+            title="Pause animations"
+          >
+            <span class="motion-icon" aria-hidden="true"></span
+            ><span class="motion-label">Motion on</span>
+          </button>
         </nav>
         <div class="header-actions">
           <a
@@ -109,6 +121,10 @@
             >
           </div>
           <figure class="hero-art">
+            <span class="hero-light" aria-hidden="true"></span>
+            <div class="hero-sparks" aria-hidden="true">
+              <i></i><i></i><i></i><i></i><i></i><i></i>
+            </div>
             <span class="hero-orbit" aria-hidden="true"></span>
             <img
               class="hero-portrait"
@@ -130,19 +146,24 @@
         </div>
         <div class="hero-bottom wrap">
           <span>ONE GIANT EYE. ZERO LEADS.</span
-          ><a href="#lore">MEET THE CYCLOPS <span aria-hidden="true">↓</span></a
+          ><a href="#vision"
+            >TAKE THE EYE TEST <span aria-hidden="true">↓</span></a
           ><span>ZCASH NATIVE / LIVE ON SHLD</span>
         </div>
       </section>
 
-      <div class="ticker-tape" aria-hidden="true">
+      <div class="ticker-tape" aria-hidden="true" data-ambient>
         <div class="tape-track">
-          <span>NOTHING TO SEE HERE</span><span>✳</span
-          ><span>ONE EYE. ZERO VISIBILITY.</span><span>✳</span
-          ><span>WELCOME TO THE BLIND SPOT</span><span>✳</span
-          ><span>NOTHING TO SEE HERE</span><span>✳</span
-          ><span>ONE EYE. ZERO VISIBILITY.</span><span>✳</span
-          ><span>WELCOME TO THE BLIND SPOT</span><span>✳</span>
+          <div class="tape-set">
+            <span>NOTHING TO SEE HERE</span><span>✳</span
+            ><span>ONE EYE. ZERO VISIBILITY.</span><span>✳</span
+            ><span>WELCOME TO THE BLIND SPOT</span><span>✳</span>
+          </div>
+          <div class="tape-set">
+            <span>NOTHING TO SEE HERE</span><span>✳</span
+            ><span>ONE EYE. ZERO VISIBILITY.</span><span>✳</span
+            ><span>WELCOME TO THE BLIND SPOT</span><span>✳</span>
+          </div>
         </div>
       </div>
 
@@ -162,7 +183,7 @@
               >
             </p>
           </div>
-          <div class="archive-scene">
+          <div class="archive-scene" data-ambient>
             <img
               src="assets/optimized/archive-scene.webp"
               alt="ZYCLOPS painstakingly examines a completely redacted file at his desk in a dark archive."
@@ -210,6 +231,198 @@
               </p>
             </article>
           </div>
+        </div>
+      </section>
+
+      <section
+        class="vision-lab wrap"
+        id="vision"
+        aria-labelledby="vision-title"
+        data-ambient
+      >
+        <div class="vision-copy">
+          <span class="eyebrow">A COMPLETELY UNSCIENTIFIC EXPERIMENT</span>
+          <h2 id="vision-title">ALL THAT EYE.<br /><span>ANY IDEAS?</span></h2>
+          <p>
+            Go on. Make eye contact.<br />He's been preparing his whole life for
+            this.
+          </p>
+          <div class="vision-actions">
+            <button
+              class="button button-gold"
+              id="vision-test"
+              type="button"
+              hidden
+            >
+              Test his vision <span aria-hidden="true">↗</span>
+            </button>
+            <button
+              class="button button-outline"
+              id="vision-blink"
+              type="button"
+              hidden
+            >
+              Make him blink
+            </button>
+          </div>
+          <div
+            class="vision-result"
+            role="status"
+            aria-live="polite"
+            aria-atomic="true"
+          >
+            <span class="result-label">THE VERDICT</span>
+            <p id="vision-verdict">One eye. Still no idea.</p>
+          </div>
+        </div>
+        <div
+          class="vision-instrument"
+          aria-label="An animated gold cyclops eye"
+          role="img"
+        >
+          <div class="lens-grid" aria-hidden="true"></div>
+          <div class="lens-orbit lens-orbit-outer" aria-hidden="true"></div>
+          <div class="lens-orbit lens-orbit-inner" aria-hidden="true"></div>
+          <span class="lens-coordinate lens-coordinate-top" aria-hidden="true"
+            >SUBJECT 001 <i></i> SINGLE OPTIC</span
+          >
+          <svg
+            class="cyclops-eye"
+            viewBox="0 0 600 400"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <defs>
+              <linearGradient id="eye-bevel" x1="0" y1="0" x2="0.8" y2="1">
+                <stop stop-color="#fff2a9" />
+                <stop offset=".25" stop-color="#e8b735" />
+                <stop offset=".58" stop-color="#796017" />
+                <stop offset="1" stop-color="#e7b848" />
+              </linearGradient>
+              <radialGradient id="eye-gold">
+                <stop stop-color="#fff5ac" />
+                <stop offset=".37" stop-color="#ffe695" />
+                <stop offset=".67" stop-color="#e9ad24" />
+                <stop offset=".88" stop-color="#8f4a0c" />
+                <stop offset="1" stop-color="#261607" />
+              </radialGradient>
+              <radialGradient id="eye-black">
+                <stop stop-color="#282a21" />
+                <stop offset="1" stop-color="#080a07" />
+              </radialGradient>
+              <radialGradient id="eye-halo">
+                <stop stop-color="#d69c21" stop-opacity=".22" />
+                <stop offset="1" stop-color="#d69c21" stop-opacity="0" />
+              </radialGradient>
+              <clipPath id="eye-opening">
+                <path d="M75 200 Q300 12 525 200 Q300 388 75 200Z" />
+              </clipPath>
+            </defs>
+            <ellipse
+              cx="300"
+              cy="214"
+              rx="295"
+              ry="178"
+              fill="url(#eye-halo)"
+            />
+            <path
+              d="M44 198 155 104 298 65 449 110 555 198 461 178 302 119 142 171Z"
+              fill="url(#eye-bevel)"
+            />
+            <path d="M44 198 155 104 142 171Z" fill="#695020" />
+            <path d="m155 104 143-39-72 71Z" fill="#f7dc7d" />
+            <path d="m298 65 151 45-75 41Z" fill="#bb8b2c" />
+            <path
+              d="M49 203 161 298 300 337 440 298 551 203 456 229 299 288 144 230Z"
+              fill="url(#eye-bevel)"
+            />
+            <path d="m161 298 139 39-75-76Z" fill="#695020" />
+            <path d="m300 337 140-39-66-46Z" fill="#ae8130" />
+            <g class="eye-aperture">
+              <path
+                d="M75 200 Q300 12 525 200 Q300 388 75 200Z"
+                fill="url(#eye-black)"
+                stroke="#e9c75d"
+                stroke-width="2"
+              />
+              <g clip-path="url(#eye-opening)">
+                <g class="eye-gaze">
+                  <circle
+                    cx="300"
+                    cy="200"
+                    r="99"
+                    fill="#e8ad24"
+                    opacity=".12"
+                  />
+                  <circle
+                    cx="300"
+                    cy="200"
+                    r="88"
+                    fill="url(#eye-gold)"
+                    stroke="#ffdb6d"
+                    stroke-width="2"
+                  />
+                  <g
+                    class="iris-rays"
+                    stroke="#ffe89c"
+                    stroke-opacity=".46"
+                  ></g>
+                  <circle
+                    cx="300"
+                    cy="200"
+                    r="57"
+                    fill="none"
+                    stroke="#fff0a3"
+                    stroke-width="1.5"
+                    opacity=".7"
+                  />
+                  <circle
+                    class="eye-pupil"
+                    cx="300"
+                    cy="200"
+                    r="35"
+                    fill="#080906"
+                  />
+                  <ellipse
+                    cx="276"
+                    cy="165"
+                    rx="14"
+                    ry="7"
+                    fill="#fff7d0"
+                    opacity=".9"
+                    transform="rotate(-35 276 165)"
+                  />
+                  <circle
+                    cx="334"
+                    cy="229"
+                    r="4"
+                    fill="#ffd765"
+                    opacity=".65"
+                  />
+                </g>
+              </g>
+            </g>
+            <path
+              d="M76 198 Q300 23 524 198"
+              fill="none"
+              stroke="#171a12"
+              stroke-width="14"
+            />
+            <path
+              d="M77 192 Q300 22 523 192"
+              fill="none"
+              stroke="#ffe39b"
+              stroke-width="2"
+              opacity=".8"
+            />
+          </svg>
+          <div class="lens-scan" aria-hidden="true"></div>
+          <span
+            class="lens-coordinate lens-coordinate-bottom"
+            aria-hidden="true"
+            ><span id="lens-note">AWAITING A BRILLIANT THOUGHT</span
+            ><span>◉ ZYCL</span></span
+          >
         </div>
       </section>
 
@@ -515,8 +728,11 @@
           <div class="sticker-pack" id="stickers">
             <div class="sticker-copy">
               <span class="eyebrow">PORTABLE BAD ATTITUDE</span>
-              <h3>ONE EYE.<br />16 MOODS.</h3>
-              <p>GM. Shh. This is fine.<br />Take the cyclops with you.</p>
+              <h3>ONE EYE.<br />EVERY MOOD.</h3>
+              <p>
+                16 classics. Three moving targets.<br />Take the cyclops with
+                you.
+              </p>
               <a
                 class="button button-gold"
                 href="assets/zyclops-sticker-pack.zip"
@@ -567,6 +783,178 @@
               />
             </div>
           </div>
+          <section class="animated-stickers" aria-labelledby="animated-title">
+            <div class="animated-heading">
+              <div>
+                <span class="eyebrow">HE MOVED. WE HAVE WITNESSES.</span>
+                <h3 id="animated-title">REACTIONS IN MOTION.</h3>
+              </div>
+              <a
+                class="text-link"
+                href="assets/zyclops-animated-stickers.zip"
+                download
+                >Get all three <span aria-hidden="true">↓</span></a
+              >
+            </div>
+            <div class="animated-grid">
+              <article class="animated-card">
+                <div class="sticker-stage">
+                  <video
+                    class="sticker-video"
+                    loop
+                    muted
+                    playsinline
+                    preload="none"
+                    poster="assets/animated/gm.webp"
+                    width="512"
+                    height="512"
+                    aria-label="Animated GM sticker: ZYCLOPS waves hello."
+                    data-name="GM"
+                  >
+                    <source
+                      data-src="assets/animated/gm-preview.webm"
+                      type="video/webm"
+                    />
+                    <img
+                      src="assets/animated/gm.webp"
+                      alt="ZYCLOPS waves hello."
+                      width="512"
+                      height="512"
+                      loading="lazy"
+                    />
+                  </video>
+                  <button
+                    class="sticker-play"
+                    type="button"
+                    aria-label="Play GM animation"
+                    hidden
+                  >
+                    <span aria-hidden="true">▶</span>
+                  </button>
+                </div>
+                <div class="animated-caption">
+                  <div>
+                    <span class="eyebrow">01 / GM</span>
+                    <h4>Rise. Stare. Repeat.</h4>
+                  </div>
+                  <a
+                    href="assets/animated/gm.webm"
+                    download
+                    aria-label="Download GM video sticker"
+                    >↓</a
+                  >
+                </div>
+              </article>
+              <article class="animated-card">
+                <div class="sticker-stage">
+                  <video
+                    class="sticker-video"
+                    loop
+                    muted
+                    playsinline
+                    preload="none"
+                    poster="assets/animated/pump.webp"
+                    width="512"
+                    height="512"
+                    aria-label="Animated PUMP sticker: ZYCLOPS celebrates with raised fists and a glowing eye."
+                    data-name="PUMP"
+                  >
+                    <source
+                      data-src="assets/animated/pump-preview.webm"
+                      type="video/webm"
+                    />
+                    <img
+                      src="assets/animated/pump.webp"
+                      alt="ZYCLOPS celebrates with raised fists."
+                      width="512"
+                      height="512"
+                      loading="lazy"
+                    />
+                  </video>
+                  <button
+                    class="sticker-play"
+                    type="button"
+                    aria-label="Play PUMP animation"
+                    hidden
+                  >
+                    <span aria-hidden="true">▶</span>
+                  </button>
+                </div>
+                <div class="animated-caption">
+                  <div>
+                    <span class="eyebrow">02 / PUMP</span>
+                    <h4>Composure has left.</h4>
+                  </div>
+                  <a
+                    href="assets/animated/pump.webm"
+                    download
+                    aria-label="Download PUMP video sticker"
+                    >↓</a
+                  >
+                </div>
+              </article>
+              <article class="animated-card">
+                <div class="sticker-stage">
+                  <video
+                    class="sticker-video"
+                    loop
+                    muted
+                    playsinline
+                    preload="none"
+                    poster="assets/animated/fine.webp"
+                    width="512"
+                    height="512"
+                    aria-label="Animated This is fine sticker: ZYCLOPS drinks coffee while the fire flickers."
+                    data-name="This is fine"
+                  >
+                    <source
+                      data-src="assets/animated/fine-preview.webm"
+                      type="video/webm"
+                    />
+                    <img
+                      src="assets/animated/fine.webp"
+                      alt="ZYCLOPS drinks coffee surrounded by fire."
+                      width="512"
+                      height="512"
+                      loading="lazy"
+                    />
+                  </video>
+                  <button
+                    class="sticker-play"
+                    type="button"
+                    aria-label="Play This is fine animation"
+                    hidden
+                  >
+                    <span aria-hidden="true">▶</span>
+                  </button>
+                </div>
+                <div class="animated-caption">
+                  <div>
+                    <span class="eyebrow">03 / THIS IS FINE</span>
+                    <h4>Still drinking the coffee.</h4>
+                  </div>
+                  <a
+                    href="assets/animated/fine.webm"
+                    download
+                    aria-label="Download This is fine video sticker"
+                    >↓</a
+                  >
+                </div>
+              </article>
+            </div>
+            <details class="animated-help">
+              <summary>
+                Add them to Telegram <span aria-hidden="true">+</span>
+              </summary>
+              <p>
+                Download the three stickers, open
+                <a href="https://t.me/Stickers">@Stickers</a> in Telegram and
+                send <strong>/newvideo</strong>. Give your pack a name, then
+                upload each WEBM as a file and choose its emoji. The ZIP
+                includes instructions.
+              </p>
+            </details>
+          </section>
           <details class="all-stickers">
             <summary>
               Browse all 16 stickers <span aria-hidden="true">+</span>
@@ -796,9 +1184,13 @@
 
       <section
         class="community-section"
+        data-ambient
         id="community"
         aria-labelledby="community-title"
       >
+        <div class="community-orbits" aria-hidden="true">
+          <i></i><i></i><i></i>
+        </div>
         <div class="wrap community-inner">
           <span class="eyebrow">04 / YOU FOUND US</span>
           <h2 id="community-title">
