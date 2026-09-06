@@ -1854,4 +1854,82 @@ code:focus-visible {
   }
 }
 
-.all-stickers{border-bottom:1px solid var(--line);padding:8px 0 20px}.all-stickers summary{min-height:58px;display:flex;align-items:center;justify-content:space-between;font-weight:600;cursor:pointer;list-style:none}.all-stickers summary::-webkit-details-marker{display:none}.all-stickers summary>span{font-size:1.5rem;color:var(--gold)}.all-stickers[open] summary>span{transform:rotate(45deg)}.all-stickers-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;padding:20px 0}.sticker-file{display:flex;flex-direction:column;align-items:center;border:1px solid var(--line);background:var(--panel);padding:20px;text-decoration:none;transition:border-color .18s}.sticker-file:hover{border-color:var(--gold)}.sticker-file img{width:100%;max-width:160px;aspect-ratio:1;object-fit:contain}.sticker-file>span{width:100%;display:flex;justify-content:space-between;font-size:.875rem;margin-top:16px}.sticker-file>span>span{color:var(--gold)}.all-stickers>p{color:var(--muted);font-size:.875rem;max-width:80ch;padding-top:14px}@media(max-width:600px){.all-stickers-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.sticker-file{padding:12px}.sticker-file>span{font-size:.8125rem}.all-stickers summary{font-size:.9375rem}}
+.all-stickers {
+  border-bottom: 1px solid var(--line);
+  padding: 8px 0 20px;
+}
+.all-stickers summary {
+  min-height: 58px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+}
+.all-stickers summary::-webkit-details-marker {
+  display: none;
+}
+.all-stickers summary > span {
+  font-size: 1.5rem;
+  color: var(--gold);
+}
+.all-stickers[open] summary > span {
+  transform: rotate(45deg);
+}
+.all-stickers-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+  padding: 20px 0;
+}
+.sticker-file {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid var(--line);
+  background: var(--panel);
+  padding: 20px;
+  text-decoration: none;
+  transition: border-color 0.18s;
+}
+.sticker-file:hover {
+  border-color: var(--gold);
+}
+.sticker-file img {
+  width: 100%;
+  max-width: 160px;
+  aspect-ratio: 1;
+  object-fit: contain;
+}
+.sticker-file > span {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.875rem;
+  margin-top: 16px;
+}
+.sticker-file > span > span {
+  color: var(--gold);
+}
+.all-stickers > p {
+  color: var(--muted);
+  font-size: 0.875rem;
+  max-width: 80ch;
+  padding-top: 14px;
+}
+@media (max-width: 600px) {
+  .all-stickers-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+  }
+  .sticker-file {
+    padding: 12px;
+  }
+  .sticker-file > span {
+    font-size: 0.8125rem;
+  }
+  .all-stickers summary {
+    font-size: 0.9375rem;
+  }
+}
