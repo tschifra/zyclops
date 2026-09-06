@@ -524,7 +524,7 @@ button.btn {
 .footer-grid .brand img { width: 48px; height: 48px; }
 .footer-grid strong { display: block; font-family: var(--display); font-size: 22px; }
 .footer-grid small { color: var(--mute); font-size: 13px; }
-.footer-links { display: flex; gap: 22px; font-weight: 600; }
+.footer-links { display: flex; flex-wrap: wrap; gap: 22px; font-weight: 600; }
 .disclaimer {
   font-size: 14px;
   line-height: 1.6;
