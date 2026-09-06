@@ -308,14 +308,12 @@ button.btn {
 .hero h1 {
   display: flex;
   flex-direction: column;
+  gap: 0.04em;
   font-size: clamp(56px, 9vw, 108px);
-  line-height: 0.86;
+  line-height: 0.95;
   font-weight: 900;
-  background: linear-gradient(180deg, #fff3c4 0%, var(--gold) 48%, #9a7018 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  filter: drop-shadow(0 1px 0 #4a3408);
+  color: #f6e4a3;
+  text-shadow: 0 2px 0 #2a1c04, 0 0 32px rgba(232, 184, 74, 0.35);
 }
 .tagline {
   font-size: 24px;
