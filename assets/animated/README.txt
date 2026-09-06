@@ -6,9 +6,9 @@ gm.webm      👋  GM — the cyclops waves hello.
 pump.webm    🚀  PUMP — composure has left.
 fine.webm    🔥  THIS IS FINE — still drinking the coffee.
 
-OFFICIAL PACK
+OFFICIAL PACK (not published yet — Telegram says stickers not found)
 Short name: ZYCLOPSzec_motion
-Link: https://t.me/addstickers/ZYCLOPSzec_motion
+Intended link: https://t.me/addstickers/ZYCLOPSzec_motion
 
 1. Extract the ZIP on your phone or computer.
 2. Open the official @Stickers bot: https://t.me/Stickers
