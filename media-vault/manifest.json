@@ -1,10 +1,43 @@
 {
   "schema_version": "1.0",
-  "library_version": "2026-09-06.7",
+  "library_version": "2026-09-07.8",
   "name": "ZYCLOPS media vault",
   "home": "https://zyclops.xyz/",
   "gallery": "https://zyclops.xyz/media-vault/",
   "assets": [
+    {
+      "id": "zyclops-welcome-blind-spot-v1",
+      "creative_id": "welcome-blind-spot",
+      "title": "WELCOME TO THE BLIND SPOT.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-welcome-blind-spot-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-welcome-blind-spot-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 514168,
+      "sha256": "da6111e27a1fb026d6f03920ff88127979cce87ab93b2f4000bdd527e240ddd2",
+      "thumbnail_path": "thumbs/zyclops-welcome-blind-spot-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-welcome-blind-spot-v1.jpg",
+      "captions": [
+        "he's saving you a seat. allegedly. 👁️",
+        "he's saving you a seat. allegedly. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS sits alone in a dim charcoal lounge, his single gold eye softly glowing, with an empty chair pulled out across the small table as if saved for the viewer.",
+      "tags": [
+        "welcome",
+        "blind-spot",
+        "community",
+        "privacy",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 8,
+      "topic": "welcome-blind-spot"
+    },
     {
       "id": "zyclops-zero-knowledge-v1",
       "creative_id": "zero-knowledge",
@@ -2092,7 +2125,7 @@
   "base_url": "https://zyclops.xyz/media-vault/",
   "access": "Unlisted, publicly accessible by URL; not authenticated.",
   "counts": {
-    "images": 54,
+    "images": 55,
     "videos": 0,
     "loops": 8,
     "gif_alternates": 0,
@@ -2125,5 +2158,5 @@
     "zyclops-rain-motion-v1",
     "zyclops-sentinel-motion-v1"
   ],
-  "pack_version": 7
+  "pack_version": 8
 }
