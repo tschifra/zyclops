@@ -2,7 +2,7 @@
 
 The vault uses a consistent illustration style: charcoal-black backgrounds, warm ochre gold and cream, a single large central eye, an angular beard, heavy drawn contours, and a restrained ink/paper texture. Meme headlines use bold cream capitals with a gold punchline. Holder illustrations use a small ZYCLOPS / $ZYCL footer.
 
-The collection contains 41 meme scenes and fourteen holder illustrations, plus eight silent looping scenes derived from the holder artwork. Six older versions that mixed glossy 3D rendering, photographic sets, and flat poster treatment remain retired. Older Ken Burns camera posters and sticker loops also stay retired.
+The collection contains 51 meme scenes and fourteen holder illustrations, plus eight silent looping scenes derived from the holder artwork. Six older versions that mixed glossy 3D rendering, photographic sets, and flat poster treatment remain retired. Older Ken Burns camera posters and sticker loops also stay retired.
 
 Volume 4 adds two new stills (First snow, The lantern) and eight palindrome loops: campfire, forge, rain, cafe, archive, night watch, snow, and lantern. Loops keep the character still and move only the environment (fire, rain, steam, papers, snow, lantern flame). They are GIF files with the first frame identical to the last, no audio, and a smaller WebP alternate.
 
@@ -15,3 +15,5 @@ Volume 6 adds two user-specified reaction memes: The chart (HE LOOKED. THEN HE R
 Volume 7 adds ten user-specified still memes: Zero knowledge, Seed phrase, Paper hands, Bridge, Airdrop, NFA, Exit liquidity, Onchain, Bear market, and One more block. All were generated with the built-in image tool using the same GM and campfire identity/style references. Headline, punchline and footer are preserved as supplied; Airdrop deliberately depicts the single eye closed mid-blink. Submitted prompts are retained in prompts.json.
 
 Volume 8 adds Welcome to the blind spot: ZYCLOPS alone in a dim lounge with an empty chair saved across the table. The user-supplied headline and punchline accompany the established charcoal, cream and gold screenprint identity. Generated with the built-in image tool using the GM and campfire references; submitted prompt retained in prompts.json.
+
+Volume 9 adds ten original still memes: Proof of work, Cold wallet, Gas fees, Rug check, Whale alert, Token burn, Hard fork, Liquid staking, Private key, and Roadmap. Each uses a literal crypto joke, the established one-eyed mascot, and the charcoal, cream and gold screenprint palette. Generated with the built-in image tool using the GM and campfire identity/style references. Submitted prompts are retained in prompts.json.

@@ -895,5 +895,208 @@
     ],
     "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are reference images for mascot identity and tactile 2D screenprint style only, not edit targets. Generate the new lounge scene below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Generate a NEW illustration using the supplied image only for ZYCLOPS mascot identity and tactile screenprint style. Preserve exactly ONE large central golden eye, wide angular black beard, bulky black/gold-clothed cyclops with sculpted gold facial edges. Match the reference's black charcoal, warm cream, metallic ochre-gold print texture, high contrast and restrained grain. Strong expressive silhouette, phone-readable visual joke. Full designed 1:1 poster, no collage, no panel grid. Put large condensed cream uppercase heading at top, a bold gold punchline below the scene, small exact footer 'ZYCLOPS · $ZYCL'. Keep ALL lettering and important anatomy within a generous 7% safe margin; a dark border of breathing room. No extra copy, no extra eyes, no readable prices/charts with numbers, no promises of profit, no additional logos, no watermark.\n\nCHARACTER LOCK from references: dark charcoal ape-cyclops face with fur texture (not yellow human skin); gold metallic brow plate above the eye; wide flat mustard-gold nose; thick black beard with jagged gold edge highlights; gold mechanical plates at the sides of the head; one cream-sclera mustard-gold iris eye; black hoodie. Same face as the attached vault refs.\n\nScene: Atmospheric dark booth in a charcoal bar / blind-spot lounge. ZYCLOPS sits alone on one side of a small table, serious deadpan face, single gold eye glowing softly. Across from him an empty chair is pulled out — a seat saved. Sparse gold rim light, deep shadows, subtle paper grain. Mood: welcoming but mysterious; privacy / the blind spot. Clean, quotable composition — character large enough for phone.\n\nTop heading exact text: 'WELCOME TO THE BLIND SPOT.'\nBottom punchline exact text: 'HE'S SAVING YOU A SEAT. ALLEGEDLY.'\nFooter exact text: 'ZYCLOPS · $ZYCL'.\n\nLayout clarification: Wrap the long headline and punchline into balanced two-line blocks so each remains bold and readable. All typography, INCLUDING the entire footer, must fit within the central 86% of the canvas, with at least 7% empty charcoal margin at the top, bottom, left and right. One character and one clearly unoccupied pulled-out chair facing him. Plain black hoodie with no logo patches. No logos on furniture, table or props. Only the three exact text blocks above.",
     "refinement_prompt": "Use case: precise-object-edit. Input image is the edit target. Make ONLY a layout/margin correction to this completed square poster. Keep the same scene, character, one eye, face identity, pose, empty chair, table, shadows, gold lighting, black/cream/gold palette, screenprint texture, text wording and typography.\n\nReframe the ENTIRE existing design slightly smaller, approximately 88% of its present scale, centered on the same square canvas. Fill the newly exposed outer area with the matching uninterrupted charcoal paper texture. This is breathing room, not a contrasting border. The uppermost headline letter and the lowest footer letter must both be at least 7% of the image height away from the edge. All lettering and important anatomy must fit within the central 86% of canvas width and height. In particular, lift the footer well clear of the bottom edge and move the headline down from the top. Preserve the existing two-line headline and two-line punchline.\n\nExact headline: WELCOME TO THE BLIND SPOT.\nExact punchline: HE'S SAVING YOU A SEAT. ALLEGEDLY.\nExact footer: ZYCLOPS · $ZYCL\n\nNo new objects, characters, logos, copy, eyes, or watermark. Do not redesign or change the scene. Return one finished square poster."
+  },
+  {
+    "id": "proof-of-work",
+    "headline": "PROOF OF WORK.",
+    "punchline": "ON A COFFEE BREAK.",
+    "scene": "ZYCLOPS sits on a low rock in a quiet charcoal mine, taking a very serious coffee break. One gold-edged pickaxe rests unused against the rock beside him, a few angular ochre mineral seams in the deep shadows. He holds one plain black coffee mug. Deadpan calm, no other miners.",
+    "tags": [
+      "proof-of-work",
+      "coffee",
+      "mining",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS sits in a charcoal mine drinking coffee beside an unused gold-edged pickaxe. Text: PROOF OF WORK. ON A COFFEE BREAK.",
+    "caption": "proof of work. on a coffee break. 👁️",
+    "title": "PROOF OF WORK.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS sits on a low rock in a quiet charcoal mine, taking a very serious coffee break. One gold-edged pickaxe rests unused against the rock beside him, a few angular ochre mineral seams in the deep shadows. He holds one plain black coffee mug. Deadpan calm, no other miners.\n\nExact headline: PROOF OF WORK.\nExact punchline: ON A COFFEE BREAK.\nExact footer: ZYCLOPS · $ZYCL"
+  },
+  {
+    "id": "cold-wallet",
+    "headline": "COLD WALLET.",
+    "punchline": "HE PUT IT IN THE FRIDGE.",
+    "scene": "ZYCLOPS stands beside a small open refrigerator, peering solemnly inside at one ordinary black leather wallet sitting alone on the middle shelf. A little frost and cold mist, warm gold refrigerator light, simple charcoal kitchen. One clear absurd misunderstanding. The wallet is a physical folding wallet, no screen, no cash visible.",
+    "tags": [
+      "cold-wallet",
+      "wallet",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS peers into a refrigerator containing a lone black wallet covered with a little frost. Text: COLD WALLET. HE PUT IT IN THE FRIDGE.",
+    "caption": "cold storage. very literal. 👁️",
+    "title": "COLD WALLET.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS stands beside a small open refrigerator, peering solemnly inside at one ordinary black leather wallet sitting alone on the middle shelf. A little frost and cold mist, warm gold refrigerator light, simple charcoal kitchen. One clear absurd misunderstanding. The wallet is a physical folding wallet, no screen, no cash visible.\n\nExact headline: COLD WALLET.\nExact punchline: HE PUT IT IN THE FRIDGE.\nExact footer: ZYCLOPS · $ZYCL"
+  },
+  {
+    "id": "gas-fees",
+    "headline": "GAS FEES.",
+    "punchline": "HE TOOK THE BIKE.",
+    "scene": "ZYCLOPS riding an ordinary sturdy black bicycle with restrained gold trim down a quiet charcoal city street at night. Side three-quarter view so his one-eyed face and the two bicycle wheels are both clear. Deadpan commuter energy. One warm gold streetlight, uncluttered background, no cars, no gas station or billboards.",
+    "tags": [
+      "gas-fees",
+      "bike",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS rides a black and gold bicycle through a quiet nighttime city street with a deadpan expression. Text: GAS FEES. HE TOOK THE BIKE.",
+    "caption": "he took the bike. 👁️",
+    "title": "GAS FEES.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS riding an ordinary sturdy black bicycle with restrained gold trim down a quiet charcoal city street at night. Side three-quarter view so his one-eyed face and the two bicycle wheels are both clear. Deadpan commuter energy. One warm gold streetlight, uncluttered background, no cars, no gas station or billboards.\n\nExact headline: GAS FEES.\nExact punchline: HE TOOK THE BIKE.\nExact footer: ZYCLOPS · $ZYCL"
+  },
+  {
+    "id": "rug-check",
+    "headline": "RUG CHECK.",
+    "punchline": "HE CHECKED UNDER THE RUG.",
+    "scene": "ZYCLOPS kneels in a simple dark room, solemnly lifting one corner of a small ochre-gold rug to inspect the bare charcoal floor underneath with his single eye. The lifted corner and its underside are unmistakable. Nothing is underneath. An absurdly thorough investigation, minimal props.",
+    "tags": [
+      "rug-check",
+      "research",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS carefully lifts a gold rug to inspect the empty floor beneath it. Text: RUG CHECK. HE CHECKED UNDER THE RUG.",
+    "caption": "due diligence completed. nothing under the rug. 👁️",
+    "title": "RUG CHECK.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS kneels in a simple dark room, solemnly lifting one corner of a small ochre-gold rug to inspect the bare charcoal floor underneath with his single eye. The lifted corner and its underside are unmistakable. Nothing is underneath. An absurdly thorough investigation, minimal props.\n\nExact headline: RUG CHECK.\nExact punchline: HE CHECKED UNDER THE RUG.\nExact footer: ZYCLOPS · $ZYCL"
+  },
+  {
+    "id": "whale-alert",
+    "headline": "WHALE ALERT.",
+    "punchline": "HE BROUGHT A SMALLER BOAT.",
+    "scene": "ZYCLOPS sits in a comically small black rowboat on a calm dark sea, holding a tiny gold oar and looking deadpan at a huge simple ochre-gold whale tail rising from the water behind him. Character large in foreground, tail readable behind, moonless charcoal sky, gentle gold ripples. The boat stays afloat. No danger or splash covering the mascot.",
+    "tags": [
+      "whale-alert",
+      "boat",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS sits in a tiny rowboat with a small oar while an enormous gold whale tail rises behind him. Text: WHALE ALERT. HE BROUGHT A SMALLER BOAT.",
+    "caption": "whale alert. wrong boat. 👁️",
+    "title": "WHALE ALERT.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS sits in a comically small black rowboat on a calm dark sea, holding a tiny gold oar and looking deadpan at a huge simple ochre-gold whale tail rising from the water behind him. Character large in foreground, tail readable behind, moonless charcoal sky, gentle gold ripples. The boat stays afloat. No danger or splash covering the mascot.\n\nExact headline: WHALE ALERT.\nExact punchline: HE BROUGHT A SMALLER BOAT.\nExact footer: ZYCLOPS · $ZYCL"
+  },
+  {
+    "id": "token-burn",
+    "headline": "TOKEN BURN.",
+    "punchline": "HE BURNED THE TOAST.",
+    "scene": "ZYCLOPS in a charcoal kitchen staring sternly at two unmistakably burnt black toast slices sticking out of one small gold toaster. A single curling wisp of dark smoke edged in gold. His black hoodie and one golden eye clearly visible behind the toaster. Quiet disappointment. No fire, no actual tokens or coins.",
+    "tags": [
+      "token-burn",
+      "toast",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS stares at two burnt slices of toast in a gold toaster with a curl of smoke. Text: TOKEN BURN. HE BURNED THE TOAST.",
+    "caption": "token burn. breakfast edition. 👁️",
+    "title": "TOKEN BURN.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS in a charcoal kitchen staring sternly at two unmistakably burnt black toast slices sticking out of one small gold toaster. A single curling wisp of dark smoke edged in gold. His black hoodie and one golden eye clearly visible behind the toaster. Quiet disappointment. No fire, no actual tokens or coins.\n\nExact headline: TOKEN BURN.\nExact punchline: HE BURNED THE TOAST.\nExact footer: ZYCLOPS · $ZYCL"
+  },
+  {
+    "id": "hard-fork",
+    "headline": "HARD FORK.",
+    "punchline": "HE BENT THE SPOON.",
+    "scene": "ZYCLOPS seated at a small dark table, holding one visibly bent gold spoon up at eye level with a stern confused expression. A perfectly straight ordinary gold fork lies untouched on the table. Clear utensil silhouettes, the spoon has a rounded oval bowl and a bent handle, the fork has four tines. Only these two utensils; minimal charcoal background.",
+    "tags": [
+      "hard-fork",
+      "spoon",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS examines a bent gold spoon while a perfectly straight gold fork lies untouched on the table. Text: HARD FORK. HE BENT THE SPOON.",
+    "caption": "hard fork. wrong utensil. 👁️",
+    "title": "HARD FORK.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS seated at a small dark table, holding one visibly bent gold spoon up at eye level with a stern confused expression. A perfectly straight ordinary gold fork lies untouched on the table. Clear utensil silhouettes, the spoon has a rounded oval bowl and a bent handle, the fork has four tines. Only these two utensils; minimal charcoal background.\n\nExact headline: HARD FORK.\nExact punchline: HE BENT THE SPOON.\nExact footer: ZYCLOPS · $ZYCL"
+  },
+  {
+    "id": "liquid-staking",
+    "headline": "LIQUID STAKING.",
+    "punchline": "STILL STEEPING.",
+    "scene": "ZYCLOPS sits patiently at a tiny charcoal cafe table, his one eye focused intensely on one clear gold-tinted glass cup of tea. An obvious plain cream tea bag hangs in the liquid with its string over the rim; blank tag. He holds the string above the cup. One tiny gold hourglass beside it, restrained rising steam. Serious ritual, simple composition.",
+    "tags": [
+      "liquid-staking",
+      "tea",
+      "patience",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS patiently holds a tea bag in a glass cup beside a tiny hourglass. Text: LIQUID STAKING. STILL STEEPING.",
+    "caption": "liquid staking. still steeping. 👁️",
+    "title": "LIQUID STAKING.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS sits patiently at a tiny charcoal cafe table, his one eye focused intensely on one clear gold-tinted glass cup of tea. An obvious plain cream tea bag hangs in the liquid with its string over the rim; blank tag. He holds the string above the cup. One tiny gold hourglass beside it, restrained rising steam. Serious ritual, simple composition.\n\nExact headline: LIQUID STAKING.\nExact punchline: STILL STEEPING.\nExact footer: ZYCLOPS · $ZYCL"
+  },
+  {
+    "id": "private-key",
+    "headline": "PRIVATE KEY.",
+    "punchline": "HE HID IT FROM HIMSELF.",
+    "scene": "ZYCLOPS locked outside one closed charcoal front door with a simple gold keyhole. He has turned both hoodie pockets inside out to show empty cream pocket linings and stares at them with a deadpan defeated expression. No key visible anywhere. Quiet gold porch light, sparse nighttime setting. It is a physical lost-key gag, no screens or seed phrases.",
+    "tags": [
+      "private-key",
+      "privacy",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS stands outside a locked door with both empty hoodie pockets turned inside out. Text: PRIVATE KEY. HE HID IT FROM HIMSELF.",
+    "caption": "privacy level: also hidden from himself. 👁️",
+    "title": "PRIVATE KEY.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS locked outside one closed charcoal front door with a simple gold keyhole. He has turned both hoodie pockets inside out to show empty cream pocket linings and stares at them with a deadpan defeated expression. No key visible anywhere. Quiet gold porch light, sparse nighttime setting. It is a physical lost-key gag, no screens or seed phrases.\n\nExact headline: PRIVATE KEY.\nExact punchline: HE HID IT FROM HIMSELF.\nExact footer: ZYCLOPS · $ZYCL"
+  },
+  {
+    "id": "roadmap",
+    "headline": "ROADMAP.",
+    "punchline": "HE TOOK THE SCENIC ROUTE.",
+    "scene": "ZYCLOPS on a winding mountain footpath, holding an unfolded cream paper map completely obscured by thick black redaction bars. He looks calmly toward a beautiful distant ochre-gold horizon instead of the map. Charcoal pine silhouettes and a simple winding gold trail. Character large in foreground. Atmospheric adventurous scene with one deadpan joke, no text on the map or landscape.",
+    "tags": [
+      "roadmap",
+      "redacted",
+      "journey",
+      "reaction"
+    ],
+    "alt": "ZYCLOPS holds a fully redacted map on a winding mountain trail and calmly admires the gold horizon. Text: ROADMAP. HE TOOK THE SCENIC ROUTE.",
+    "caption": "roadmap fully redacted. scenic route confirmed. 👁️",
+    "title": "ROADMAP.",
+    "kind": "meme",
+    "reference_images": [
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/gm.jpg",
+      "/Users/tbr/Documents/GitHub/zyclop/media-vault/images/zyclops-campfire-v1.jpg"
+    ],
+    "prompt": "Input images: Image 1 (GM) and Image 2 (Campfire) are mascot identity and tactile 2D screenprint style references ONLY, not edit targets. Generate a completely new scene described below.\n\nUse case: illustration-story. Asset type: ONE standalone square X social meme poster. Strong phone-readable visual joke. Full designed 1:1 poster, no collage or panel grid. Match the references' charcoal-black, warm cream, ochre-gold printed ink, thick sculpted angular contours, high contrast and restrained paper grain. 2D screenprint illustration, not glossy 3D or photographic rendering.\n\nCHARACTER LOCK: Exactly one large central cream-sclera mustard-gold iris eye in a dark charcoal ape-cyclops face with fur texture; gold metallic brow plate, wide flat mustard-gold nose, thick wide angular black beard with jagged gold edge highlights, gold mechanical side plates, bulky build, black hoodie. Same face as the references, never yellow human skin. Exactly one eye and one head, natural coherent hands and pose. Plain hoodie, no logo patches.\n\nPOSTER LAYOUT: Large condensed cream uppercase heading at the top, bold ochre-gold uppercase punchline below the scene, small cream footer 'ZYCLOPS · $ZYCL'. Leave a generous uninterrupted charcoal frame: aim for 10% outer breathing room so ALL lettering, including the bottom of the footer, stays at least 7% away from every edge. Keep type within the central 80% of canvas width. Wrap long headlines or punchlines into balanced two-line blocks. Do not place the footer at the bottom edge. Make the character and visual joke large within this safe area.\n\nNo extra copy, no logos or letter emblems on props/clothing, no watermark, no extra eyes, no readable prices or numbered charts, no promises of profit, no additional people. The three specified text blocks are the ONLY text in the image.\n\nScene: ZYCLOPS on a winding mountain footpath, holding an unfolded cream paper map completely obscured by thick black redaction bars. He looks calmly toward a beautiful distant ochre-gold horizon instead of the map. Charcoal pine silhouettes and a simple winding gold trail. Character large in foreground. Atmospheric adventurous scene with one deadpan joke, no text on the map or landscape.\n\nExact headline: ROADMAP.\nExact punchline: HE TOOK THE SCENIC ROUTE.\nExact footer: ZYCLOPS · $ZYCL"
   }
 ]

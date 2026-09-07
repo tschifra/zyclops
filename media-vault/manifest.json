@@ -1,10 +1,323 @@
 {
   "schema_version": "1.0",
-  "library_version": "2026-09-07.8",
+  "library_version": "2026-09-07.9",
   "name": "ZYCLOPS media vault",
   "home": "https://zyclops.xyz/",
   "gallery": "https://zyclops.xyz/media-vault/",
   "assets": [
+    {
+      "id": "zyclops-proof-of-work-v1",
+      "creative_id": "proof-of-work",
+      "title": "PROOF OF WORK.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-proof-of-work-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-proof-of-work-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 698756,
+      "sha256": "555f88342e4d05f9736ddc902d837c78620e0f831b87a75181963bcd28e08513",
+      "thumbnail_path": "thumbs/zyclops-proof-of-work-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-proof-of-work-v1.jpg",
+      "captions": [
+        "proof of work. on a coffee break. 👁️",
+        "proof of work. on a coffee break. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS sits in a charcoal mine drinking coffee beside an unused gold-edged pickaxe. Text: PROOF OF WORK. ON A COFFEE BREAK.",
+      "tags": [
+        "proof-of-work",
+        "coffee",
+        "mining",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "proof-of-work"
+    },
+    {
+      "id": "zyclops-cold-wallet-v1",
+      "creative_id": "cold-wallet",
+      "title": "COLD WALLET.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-cold-wallet-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-cold-wallet-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 592852,
+      "sha256": "f749d5a90fe574a997f8eaeafa515395bcb413dafb8eaa0d0364c4f5a935f38f",
+      "thumbnail_path": "thumbs/zyclops-cold-wallet-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-cold-wallet-v1.jpg",
+      "captions": [
+        "cold storage. very literal. 👁️",
+        "cold storage. very literal. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS peers into a refrigerator containing a lone black wallet covered with a little frost. Text: COLD WALLET. HE PUT IT IN THE FRIDGE.",
+      "tags": [
+        "cold-wallet",
+        "wallet",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "cold-wallet"
+    },
+    {
+      "id": "zyclops-gas-fees-v1",
+      "creative_id": "gas-fees",
+      "title": "GAS FEES.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-gas-fees-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-gas-fees-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 627650,
+      "sha256": "46fa2b77af90138fe98243eb6ad58535a5eceedbccc85a164fa1f7e5c22310b3",
+      "thumbnail_path": "thumbs/zyclops-gas-fees-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-gas-fees-v1.jpg",
+      "captions": [
+        "he took the bike. 👁️",
+        "he took the bike. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS rides a black and gold bicycle through a quiet nighttime city street with a deadpan expression. Text: GAS FEES. HE TOOK THE BIKE.",
+      "tags": [
+        "gas-fees",
+        "bike",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "gas-fees"
+    },
+    {
+      "id": "zyclops-rug-check-v1",
+      "creative_id": "rug-check",
+      "title": "RUG CHECK.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-rug-check-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-rug-check-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 590843,
+      "sha256": "3c8b57d5d1863436b34e7d4e50fd406897b5dad91ba6be6a520c7ee6cb987e4d",
+      "thumbnail_path": "thumbs/zyclops-rug-check-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-rug-check-v1.jpg",
+      "captions": [
+        "due diligence completed. nothing under the rug. 👁️",
+        "due diligence completed. nothing under the rug. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS carefully lifts a gold rug to inspect the empty floor beneath it. Text: RUG CHECK. HE CHECKED UNDER THE RUG.",
+      "tags": [
+        "rug-check",
+        "research",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "rug-check"
+    },
+    {
+      "id": "zyclops-whale-alert-v1",
+      "creative_id": "whale-alert",
+      "title": "WHALE ALERT.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-whale-alert-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-whale-alert-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 636167,
+      "sha256": "af45f2bf10ef071ac663f2278513a163b0b92e24ed47814f42d698d2014a8e03",
+      "thumbnail_path": "thumbs/zyclops-whale-alert-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-whale-alert-v1.jpg",
+      "captions": [
+        "whale alert. wrong boat. 👁️",
+        "whale alert. wrong boat. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS sits in a tiny rowboat with a small oar while an enormous gold whale tail rises behind him. Text: WHALE ALERT. HE BROUGHT A SMALLER BOAT.",
+      "tags": [
+        "whale-alert",
+        "boat",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "whale-alert"
+    },
+    {
+      "id": "zyclops-token-burn-v1",
+      "creative_id": "token-burn",
+      "title": "TOKEN BURN.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-token-burn-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-token-burn-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 659081,
+      "sha256": "44d5a121d82b5a1594033a5b8faf91ab598c6990d250057e9c108c7581963ad3",
+      "thumbnail_path": "thumbs/zyclops-token-burn-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-token-burn-v1.jpg",
+      "captions": [
+        "token burn. breakfast edition. 👁️",
+        "token burn. breakfast edition. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS stares at two burnt slices of toast in a gold toaster with a curl of smoke. Text: TOKEN BURN. HE BURNED THE TOAST.",
+      "tags": [
+        "token-burn",
+        "toast",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "token-burn"
+    },
+    {
+      "id": "zyclops-hard-fork-v1",
+      "creative_id": "hard-fork",
+      "title": "HARD FORK.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-hard-fork-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-hard-fork-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 573085,
+      "sha256": "c1c8e067d0118358e0545b5bd06a462192a4807e90d36b111b2b7780fd36fae2",
+      "thumbnail_path": "thumbs/zyclops-hard-fork-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-hard-fork-v1.jpg",
+      "captions": [
+        "hard fork. wrong utensil. 👁️",
+        "hard fork. wrong utensil. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS examines a bent gold spoon while a perfectly straight gold fork lies untouched on the table. Text: HARD FORK. HE BENT THE SPOON.",
+      "tags": [
+        "hard-fork",
+        "spoon",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "hard-fork"
+    },
+    {
+      "id": "zyclops-liquid-staking-v1",
+      "creative_id": "liquid-staking",
+      "title": "LIQUID STAKING.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-liquid-staking-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-liquid-staking-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 603491,
+      "sha256": "405103b51b143c7820f63602d6c8ccc8b23722b5c18c64c0aa56cc69f1912c46",
+      "thumbnail_path": "thumbs/zyclops-liquid-staking-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-liquid-staking-v1.jpg",
+      "captions": [
+        "liquid staking. still steeping. 👁️",
+        "liquid staking. still steeping. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS patiently holds a tea bag in a glass cup beside a tiny hourglass. Text: LIQUID STAKING. STILL STEEPING.",
+      "tags": [
+        "liquid-staking",
+        "tea",
+        "patience",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "liquid-staking"
+    },
+    {
+      "id": "zyclops-private-key-v1",
+      "creative_id": "private-key",
+      "title": "PRIVATE KEY.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-private-key-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-private-key-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 587805,
+      "sha256": "46c1451fdb5de884e091cb4577b05efe54cd535542148309e7dae354dbf2cc47",
+      "thumbnail_path": "thumbs/zyclops-private-key-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-private-key-v1.jpg",
+      "captions": [
+        "privacy level: also hidden from himself. 👁️",
+        "privacy level: also hidden from himself. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS stands outside a locked door with both empty hoodie pockets turned inside out. Text: PRIVATE KEY. HE HID IT FROM HIMSELF.",
+      "tags": [
+        "private-key",
+        "privacy",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "private-key"
+    },
+    {
+      "id": "zyclops-roadmap-v1",
+      "creative_id": "roadmap",
+      "title": "ROADMAP.",
+      "theme": "meme",
+      "collection": "meme",
+      "media_type": "image",
+      "path": "images/zyclops-roadmap-v1.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-roadmap-v1.jpg",
+      "mime_type": "image/jpeg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 763512,
+      "sha256": "41f5a7a2515478c1e8f72dbb49289f34ca0a8a9504732ee2d0a96ef57ad9334e",
+      "thumbnail_path": "thumbs/zyclops-roadmap-v1.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-roadmap-v1.jpg",
+      "captions": [
+        "roadmap fully redacted. scenic route confirmed. 👁️",
+        "roadmap fully redacted. scenic route confirmed. 👁️\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS holds a fully redacted map on a winding mountain trail and calmly admires the gold horizon. Text: ROADMAP. HE TOOK THE SCENIC ROUTE.",
+      "tags": [
+        "roadmap",
+        "redacted",
+        "journey",
+        "reaction"
+      ],
+      "suggested_context": "Evergreen fictional reaction meme.",
+      "suggested_cooldown_hours": 72,
+      "release": 9,
+      "topic": "roadmap"
+    },
     {
       "id": "zyclops-welcome-blind-spot-v1",
       "creative_id": "welcome-blind-spot",
@@ -2125,7 +2438,7 @@
   "base_url": "https://zyclops.xyz/media-vault/",
   "access": "Unlisted, publicly accessible by URL; not authenticated.",
   "counts": {
-    "images": 55,
+    "images": 65,
     "videos": 0,
     "loops": 8,
     "gif_alternates": 0,
@@ -2158,5 +2471,5 @@
     "zyclops-rain-motion-v1",
     "zyclops-sentinel-motion-v1"
   ],
-  "pack_version": 8
+  "pack_version": 9
 }
