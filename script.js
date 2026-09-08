@@ -51,7 +51,7 @@ if (copyButton && marketId && copyStatus) {
       if (!navigator.clipboard?.writeText)
         throw new Error("Clipboard unavailable");
       await navigator.clipboard.writeText(marketId.textContent.trim());
-      copyButton.textContent = "Copied \u2713";
+      copyButton.textContent = "Copied ✓";
       copyStatus.textContent = "Official market ID copied.";
     } catch {
       const range = document.createRange();
@@ -61,10 +61,10 @@ if (copyButton && marketId && copyStatus) {
       selection.removeAllRanges();
       selection.addRange(range);
       copyStatus.textContent =
-        "Market ID selected. Use your device\u2019s Copy action.";
+        "Market ID selected. Use your device’s Copy action.";
     }
     copyTimer = window.setTimeout(() => {
-      copyButton.textContent = "Copy market ID \u29c9";
+      copyButton.textContent = "Copy market ID ⧉";
     }, 2200);
   });
 }
@@ -136,7 +136,7 @@ function refreshVideoButton(video) {
     "aria-label",
     `${playing ? "Pause" : "Play"} ${video.dataset.name} animation`,
   );
-  button.firstElementChild.textContent = playing ? "\u2161" : "\u25b6";
+  button.firstElementChild.textContent = playing ? "Ⅱ" : "▶";
 }
 function loadVideo(video) {
   const source = video.querySelector("source");
@@ -495,7 +495,7 @@ function finishVisionTest() {
   lensNote.textContent = "RESULT: BEAUTIFULLY INCONCLUSIVE";
   visionTest.disabled = false;
   visionBlink.disabled = false;
-  visionTest.textContent = "Test again \u2197";
+  visionTest.textContent = "Test again ↗";
 }
 if (visionTest && visionBlink && instrument && visionVerdict && lensNote) {
   visionTest.hidden = false;
@@ -505,7 +505,7 @@ if (visionTest && visionBlink && instrument && visionVerdict && lensNote) {
     testBusy = true;
     visionTest.disabled = true;
     visionBlink.disabled = true;
-    visionTest.textContent = "Looking\u2026";
+    visionTest.textContent = "Looking…";
     visionVerdict.textContent = "Focusing. This may be optimistic.";
     lensNote.textContent = "ONE MOMENT. HE IS CONCENTRATING.";
     resetGaze();
