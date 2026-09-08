@@ -1,0 +1,9 @@
+.git
+.DS_Store
+**/.DS_Store
+scripts
+_art
+assets/stickers-as-files
+README.md
+assets/ARTWORK.md
+node_modules

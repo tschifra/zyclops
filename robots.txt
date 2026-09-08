@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /media-vault/
+Sitemap: https://zyclops.xyz/sitemap.xml
