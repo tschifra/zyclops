@@ -4,20 +4,90 @@
     {
       "source": "/media-vault",
       "headers": [
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow, noarchive" }
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow, noarchive"
+        }
       ]
     },
     {
       "source": "/media-vault/:path*",
       "headers": [
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow, noarchive" }
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow, noarchive"
+        }
       ]
     },
     {
       "source": "/media-vault/manifest.json",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
+    },
+    {
+      "source": "/token.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/media-vault/zyclops-media-pack.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v1.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v2.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v3.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v4.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v5.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v6.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v7.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v8.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v9.zip",
+      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "permanent": false
     }
   ]
 }

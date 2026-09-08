@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="description" content="ZYCLOPS community artwork. Memes, reactions, illustrations and banners. Download the files and copy a caption.">
+  <meta name="theme-color" content="#101110">
+  <title>The Media Vault — ZYCLOPS</title>
+  <link rel="icon" href="brand/zyclops-coin-v10.png">
+  <link rel="stylesheet" href="vault.css?v=10">
+  <script defer src="vault.js?v=10"></script>
+</head>
+<body>
+  <a class="skip" href="#library">Skip to artwork</a>
+  <header class="wrap topbar">
+    <a class="wordmark" href="/" aria-label="ZYCLOPS homepage"><span class="eye-mark" aria-hidden="true"></span>ZYCLOPS.</a>
+    <span class="edition">Community files / Vol. 10</span>
+    <nav class="top-links" aria-label="Community"><a href="https://x.com/zyclopssol" target="_blank" rel="noopener noreferrer">X ↗</a><a href="https://t.me/zyclopscoin" target="_blank" rel="noopener noreferrer">The blind spot ↗</a></nav>
+  </header>
+  <main class="wrap">
+    <section class="hero" aria-labelledby="vault-title">
+      <div class="hero-copy">
+        <div class="kicker">Declassified material</div>
+        <h1 id="vault-title">SERIOUS FACE.<br><span>UNSERIOUS FILES.</span></h1>
+        <p>$ZYCL on Solana. Memes, reactions and artwork from the blind spot. Take a file. Make it everyone’s problem.</p>
+        <div class="hero-actions"><a class="button" href="zyclops-media-pack-v10.zip" download>Download the full pack <span aria-hidden="true">↘</span></a><a class="quiet-link" href="#library">Find your reaction ↓</a></div>
+      </div>
+      <figure class="hero-art"><img src="images/zyclops-art-blind-spot-v10.jpg" width="1200" height="1200" alt="ZYCLOPS sits in the quiet corner of the blind spot with his coffee." fetchpriority="high"><figcaption><span>One eye. Zero visibility.</span><span>Seat saved. Allegedly.</span></figcaption></figure>
+    </section>
+    <div class="inventory-strip"><span><strong>@@TOTAL@@</strong> files</span><span><strong>24</strong> memes</span><span><strong>6</strong> reactions</span><span class="motto">One eye. Endless situations.</span></div>
+    <section class="library" id="library" aria-labelledby="library-title">
+      <div class="library-heading"><h2 id="library-title">Find your file.</h2><p id="result-count" aria-live="polite">@@TOTAL@@ files ready to share</p></div>
+      <div class="controls" id="controls" hidden>
+        <div class="filters" role="group" aria-label="Artwork category">@@FILTERS@@</div>
+        <label class="search-label"><span aria-hidden="true">⌕</span><span class="visually-hidden">Search artwork</span><input id="search" type="search" placeholder="Search a mood, meme, moment…" autocomplete="off"></label>
+      </div>
+      <noscript><p class="noscript">All files and downloads are available below. Enable JavaScript to search, preview and copy captions.</p></noscript>
+      <div class="grid" id="gallery-grid">@@CARDS@@</div>
+      <div class="empty" id="empty" hidden><h3>Nothing in this blind spot.</h3><p>Try a different word or choose another category.</p><button class="button" id="reset" type="button">Show all files</button></div>
+    </section>
+    <section class="bottom-note" aria-label="Using the artwork">
+      <div><h2>Borrow the face.</h2><p>Download a file, copy a caption or write your own. Pick the moment. Keep it playful. The cyclops handles the expression.</p></div>
+      <div><h2>Files for your bot.</h2><p>The current collection, direct download links and captions are all in one manifest. This vault is unlisted, but anyone with its link can access it.</p><div class="bottom-links"><a class="quiet-link" href="manifest.json">Open manifest ↗</a><a class="quiet-link" href="BOT-README.md">Integration notes ↗</a></div></div>
+    </section>
+  </main>
+  <footer class="wrap footer"><span>ZYCLOPS · $ZYCL</span><span>ONE EYE. ZERO VISIBILITY.</span><a href="/">Back to the cyclops ↗</a></footer>
+  <dialog id="preview" aria-labelledby="preview-title">
+    <div class="dialog-top"><h2 id="preview-title">Artwork preview</h2><button type="button" class="icon-button" id="close-preview" aria-label="Close preview" autofocus>×</button></div>
+    <div class="dialog-content">
+      <div class="dialog-image-wrap"><img id="preview-image" alt=""></div>
+      <div class="dialog-info"><div class="kicker" id="preview-category"></div><p id="preview-caption" tabindex="0"></p><a class="button" id="preview-download" download>Download artwork ↗</a><button type="button" class="button copy-dialog" id="preview-copy">Copy caption</button><p id="preview-status" role="status" aria-live="polite"></p><div class="file-details" id="preview-details"></div><div class="dialog-nav"><button type="button" class="icon-button" id="previous" aria-label="Previous artwork">←</button><span id="preview-position"></span><button type="button" class="icon-button" id="next" aria-label="Next artwork">→</button></div></div>
+    </div>
+  </dialog>
+  <div class="toast" id="toast" role="status" hidden></div>
+  <script type="application/json" id="vault-data">@@DATA@@</script>
+</body>
+</html>
