@@ -1,0 +1,29 @@
+ZYCLOPS stickers — send these as FILES to @Stickers
+
+The PNGs are already valid. Telegram still rejects them if the app
+compresses them as a photo. Use this folder of .webp files, and do
+NOT pick them from Photos / drag them into the chat.
+
+Telegram Desktop (telegram.org/desktop, not only the App Store app):
+1. Open @Stickers
+2. Paperclip (or +) → File   [not Photo or Video]
+3. If you see "Compress images", turn it OFF
+4. Choose 01-scowl.webp, then the rest one by one
+5. Assign the emoji when the bot asks
+
+Telegram Web (most reliable on a Mac):
+1. Open https://web.telegram.org
+2. Search @Stickers
+3. Attach → File
+4. Select the .webp (or original .png) from this folder
+
+Do not:
+- Drag the image onto the chat
+- Send from the photo library
+- Use "Compress"
+
+Emoji:
+01-scowl 😐  02-gm 👋  03-diamond 💎  04-wagmi 👍
+05-ser 👉    06-copium 😭  07-fine 🔥  08-shh 🤫
+09-laser 😤  10-ngmi 🤦  11-rekt 😵  12-blink 😉
+13-peek 🫣   14-based 😍  15-moon 🌙  16-hodl 🗿
