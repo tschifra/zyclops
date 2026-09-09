@@ -9,7 +9,8 @@
   const empty = document.querySelector('#empty');
   const dialog = document.querySelector('#preview');
   const toast = document.querySelector('#toast');
-  let category = 'all';
+  const initialPack = new URLSearchParams(window.location.search).get('pack');
+  let category = initialPack === 'stonk' ? 'stonk-community-v1' : 'all';
   let currentId = null;
   let toastTimer;
   let previousFocus;
@@ -26,7 +27,7 @@
     const query = search.value.trim().toLowerCase();
     let visible = 0;
     cards.forEach(card => {
-      const matches = (category === 'all' || card.dataset.collection === category)
+      const matches = (category === 'all' || card.dataset.collection === category || card.dataset.pack === category)
         && (!query || card.dataset.search.includes(query));
       card.hidden = !matches;
       if (matches) visible++;

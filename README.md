@@ -32,6 +32,8 @@ Artwork uses the owner's approved charcoal cyclops, one ivory-and-gold eye, a so
 
 The unlisted `/media-vault/` gallery contains the current modern collection. It is public by URL, not access-controlled. Search indexing is disabled with page metadata, robots.txt and Vercel headers. Bots should refresh `/media-vault/manifest.json` before selecting an asset.
 
+The vault now contains 44 assets. The six-file Pairing Department pack is browsable at `/media-vault/?pack=stonk#library` and downloadable separately. It includes three Stonk-themed jokes, two reactions and one blank caption template. The original 38 modern assets remain available.
+
 Rebuild the gallery, catalog and ZIP with `python3 scripts/build-media-vault.py` (requires Pillow for asset validation). See the vault's `BOT-README.md` and `meta/CHARACTER-PROMPT.md` for the schema and artwork direction.
 
 Publishing uses the existing GitHub → Vercel setup for zyclops.xyz. `.vercelignore` keeps local source utilities and untracked archival sticker files out of deployment.

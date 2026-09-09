@@ -1,5 +1,7 @@
 # ZYCLOPS · modern character collection
 
+Volume 11 adds The Pairing Department: three Stonk-themed pairing jokes, two captioned reactions and a blank remix template. These six files use the same approved modern face; all 38 volume-10 files remain in the current inventory. This is independent ZYCLOPS artwork made for the community, not an official Stonk collaboration. See `STONK-PACK-README.md` for the six-file download and remix instructions.
+
 Volume 10 completely replaces the old sculptural, armoured, long-bearded mascot artwork in this vault.
 
 The identity reference is `brand/zyclops-mascot-reference-v10.png`, supplied and approved by the owner. The approved transparent coin badge is `brand/zyclops-coin-v10.png`.

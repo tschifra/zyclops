@@ -65,7 +65,7 @@ def main():
                 assert alpha.getpixel((0,0)) == 0
         assert asset['url'] == 'https://zyclops.xyz/media-vault/' + asset['path']
 
-    fields = ['id','creative_id','title','collection','release','style_version','media_type','mime_type','url','width','height','bytes','sha256','caption','alt_text','tags']
+    fields = ['id','creative_id','title','collection','pack','requires_caption','release','style_version','media_type','mime_type','url','width','height','bytes','sha256','caption','alt_text','tags']
     with (vault / 'catalog.csv').open('w',newline='') as file:
         writer = csv.DictWriter(file,fieldnames=fields,lineterminator='\n')
         writer.writeheader()
@@ -79,16 +79,34 @@ def main():
     for index, asset in enumerate(assets,1):
         search = ' '.join([asset['title'],asset['captions'][0],*asset['tags']]).lower()
         filetype = 'PNG' if asset['mime_type'] == 'image/png' else 'JPG'
-        cards.append(f'''<article class="card" data-id="{escape(asset['id'])}" data-collection="{escape(asset['collection'])}" data-search="{escape(search,quote=True)}">
+        cards.append(f'''<article class="card" data-id="{escape(asset['id'])}" data-collection="{escape(asset['collection'])}" data-pack="{escape(asset.get('pack',''))}" data-search="{escape(search,quote=True)}">
   <a class="card-art" href="{escape(asset['path'])}" data-preview="{escape(asset['id'])}" aria-label="Preview {escape(asset['title'],quote=True)}"><img src="{escape(asset['thumbnail_path'])}" width="{asset['width']}" height="{asset['height']}" alt="{escape(asset['alt_text'],quote=True)}" loading="lazy" decoding="async"><span class="preview-tag" aria-hidden="true">OPEN FILE ↗</span></a>
   <div class="card-body"><div class="card-meta"><span>{escape(category_names[asset['collection']])} / {index:03}</span><span>{asset['width']} × {asset['height']} · {filetype}</span></div><h3>{escape(asset['title'])}</h3><p class="card-caption">{escape(asset['captions'][0])}</p><div class="card-actions"><a href="{escape(asset['path'])}" download="{escape(Path(asset['path']).name)}" aria-label="Download {escape(asset['title'],quote=True)}">Download {filetype} ↘</a><button type="button" data-copy="{escape(asset['id'])}" aria-label="Copy caption for {escape(asset['title'],quote=True)}" hidden>Copy caption ⧉</button></div></div>
 </article>''')
     filters = [f'<button class="filter" type="button" data-filter="all" aria-pressed="true">All files <span>{len(assets)}</span></button>']
+    for pack in manifest.get('community_packs', []):
+        selected = [asset for asset in assets if asset.get('pack') == pack['id']]
+        assert len(selected) == pack['count'] and selected, pack['id']
+        filters.append(f'<button class="filter" type="button" data-filter="{escape(pack["id"])}" aria-pressed="false">{escape(pack["filter_label"])} <span>{len(selected)}</span></button>')
+        readme = vault / pack['readme_path']
+        paths.add(pack['readme_path'])
+        assert readme.is_file(), readme
+        pack_path = Path(pack['download_path'])
+        assert not pack_path.is_absolute() and '..' not in pack_path.parts
+        with zipfile.ZipFile(vault / pack_path, 'w', compression=zipfile.ZIP_DEFLATED, compresslevel=6) as archive:
+            archive.writestr('README.md', readme.read_text())
+            archive.writestr('captions.json', json.dumps({'name':pack['name'], 'assets':selected}, ensure_ascii=False, indent=2))
+            for asset in selected:
+                archive.write(vault / asset['path'], asset['path'])
+        with zipfile.ZipFile(vault / pack_path) as archive:
+            assert archive.testzip() is None
+            assert len(archive.namelist()) == len(selected) + 2
+        paths.add(str(pack_path))
     for category, label in category_names.items():
         if category_counts[category]:
             filters.append(f'<button class="filter" type="button" data-filter="{category}" aria-pressed="false">{label} <span>{category_counts[category]}</span></button>')
     inline = json.dumps({'assets':assets},ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('\u2028','\\u2028').replace('\u2029','\\u2029')
-    page = args.template.read_text().replace('@@TOTAL@@',str(len(assets))).replace('@@CARDS@@','\n'.join(cards)).replace('@@FILTERS@@','\n'.join(filters)).replace('@@DATA@@',inline)
+    page = args.template.read_text().replace('@@TOTAL@@',str(len(assets))).replace('@@MEMES@@',str(category_counts['meme'])).replace('@@REACTIONS@@',str(category_counts['reaction'])).replace('@@VERSION@@',str(manifest['pack_version'])).replace('@@CARDS@@','\n'.join(cards)).replace('@@FILTERS@@','\n'.join(filters)).replace('@@DATA@@',inline)
     assert '@@' not in page, 'Unreplaced template placeholders'
     (vault / 'index.html').write_text(page)
 

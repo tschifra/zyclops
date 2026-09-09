@@ -1,12 +1,235 @@
 {
   "schema_version": "1.0",
-  "library_version": "2026-09-09.10",
+  "library_version": "2026-09-09.11",
   "style_version": "locked-face-modern-v10",
-  "pack_version": 10,
+  "pack_version": 11,
   "name": "ZYCLOPS media vault",
   "home": "https://zyclops.xyz/",
   "gallery": "https://zyclops.xyz/media-vault/",
   "assets": [
+    {
+      "id": "zyclops-stonk-socks-v11",
+      "creative_id": "zyclops-stonk-socks",
+      "title": "Any pair",
+      "theme": "meme",
+      "collection": "meme",
+      "pack": "stonk-community-v1",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "path": "images/zyclops-stonk-socks-v11.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-stonk-socks-v11.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 294864,
+      "sha256": "7dd6d409d2628b06624260f969a2b66e17ec4cca935a8d58f3a064ca4e1239ec",
+      "has_alpha": false,
+      "thumbnail_path": "thumbs/zyclops-stonk-socks-v11.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-stonk-socks-v11.jpg",
+      "captions": [
+        "He heard “pair anything” and opened the sock drawer.",
+        "He heard “pair anything” and opened the sock drawer.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS sits on a bench holding a tiny cream sock and a very long black-and-gold striped sock. His single gold eye looks pleased. Text: ANY PAIR. HE STARTED WITH SOCKS. Footer: ZYCLOPS · $ZYCL.",
+      "tags": [
+        "stonk",
+        "pair-anything",
+        "community-pack",
+        "socks",
+        "pairing",
+        "literal"
+      ],
+      "suggested_context": "Independent ZYCLOPS community artwork. Use for relevant Stonk conversations; no partnership, price or return claims.",
+      "suggested_cooldown_hours": 72,
+      "release": 11,
+      "style_version": "locked-face-modern-v10",
+      "topic": "socks"
+    },
+    {
+      "id": "zyclops-stonk-pear-v11",
+      "creative_id": "zyclops-stonk-pear",
+      "title": "Custom pair",
+      "theme": "meme",
+      "collection": "meme",
+      "pack": "stonk-community-v1",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "path": "images/zyclops-stonk-pear-v11.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-stonk-pear-v11.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 265999,
+      "sha256": "326546171dba3e9c915d08cd97c4e4f69e790ed351cc98b24df60a1f65d995cd",
+      "has_alpha": false,
+      "thumbnail_path": "thumbs/zyclops-stonk-pear-v11.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-stonk-pear-v11.jpg",
+      "captions": [
+        "The custom pair has arrived. It is a fruit.",
+        "The custom pair has arrived. It is a fruit.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS proudly presents an oversized gold pear on a charcoal pedestal. He wears a black hoodie and has one gold eye. Text: CUSTOM PAIR. HE BROUGHT A PEAR. Footer: ZYCLOPS · $ZYCL.",
+      "tags": [
+        "stonk",
+        "pair-anything",
+        "community-pack",
+        "pear",
+        "pairing",
+        "literal"
+      ],
+      "suggested_context": "Independent ZYCLOPS community artwork. Use for relevant Stonk conversations; no partnership, price or return claims.",
+      "suggested_cooldown_hours": 72,
+      "release": 11,
+      "style_version": "locked-face-modern-v10",
+      "topic": "pear"
+    },
+    {
+      "id": "zyclops-stonk-cofounder-v11",
+      "creative_id": "zyclops-stonk-cofounder",
+      "title": "Pairing complete",
+      "theme": "meme",
+      "collection": "meme",
+      "pack": "stonk-community-v1",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "path": "images/zyclops-stonk-cofounder-v11.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-stonk-cofounder-v11.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 325538,
+      "sha256": "bfae2f09e79d4e2e25e57905fd723173daa4a9184547124193e9cb890dc26df9",
+      "has_alpha": false,
+      "thumbnail_path": "thumbs/zyclops-stonk-cofounder-v11.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-stonk-cofounder-v11.jpg",
+      "captions": [
+        "The interview went well. His cofounder said nothing.",
+        "The interview went well. His cofounder said nothing.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS interviews a plain dark rock wearing a gold necktie on the opposite chair. His one eye looks thoughtful. Text: PAIRING COMPLETE. HIS COFOUNDER IS A ROCK. Footer: ZYCLOPS · $ZYCL.",
+      "tags": [
+        "stonk",
+        "pair-anything",
+        "community-pack",
+        "cofounder",
+        "rock",
+        "pairing"
+      ],
+      "suggested_context": "Independent ZYCLOPS community artwork. Use for relevant Stonk conversations; no partnership, price or return claims.",
+      "suggested_cooldown_hours": 72,
+      "release": 11,
+      "style_version": "locked-face-modern-v10",
+      "topic": "cofounder"
+    },
+    {
+      "id": "zyclops-stonk-approved-v11",
+      "creative_id": "zyclops-stonk-approved",
+      "title": "Pair approved",
+      "theme": "reaction",
+      "collection": "reaction",
+      "pack": "stonk-community-v1",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "path": "images/zyclops-stonk-approved-v11.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-stonk-approved-v11.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 260537,
+      "sha256": "ae7eaf81d1201f4a5d9d8c597df81dc2a71e387ce45b68c1a08124af62972661",
+      "has_alpha": false,
+      "thumbnail_path": "thumbs/zyclops-stonk-approved-v11.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-stonk-approved-v11.jpg",
+      "captions": [
+        "Approval process: one eyebrow.",
+        "Approval process: one eyebrow.\n\n$ZYCL"
+      ],
+      "alt_text": "A smug one-eyed ZYCLOPS presses a large gold rubber stamp onto a blank cream sheet. Text: PAIR APPROVED. Footer: ZYCLOPS · $ZYCL.",
+      "tags": [
+        "stonk",
+        "pair-anything",
+        "community-pack",
+        "approval",
+        "stamp",
+        "reaction"
+      ],
+      "suggested_context": "Independent ZYCLOPS community artwork. Use for relevant Stonk conversations; no partnership, price or return claims.",
+      "suggested_cooldown_hours": 72,
+      "release": 11,
+      "style_version": "locked-face-modern-v10",
+      "topic": "approved"
+    },
+    {
+      "id": "zyclops-stonk-explain-v11",
+      "creative_id": "zyclops-stonk-explain",
+      "title": "Explain the pair",
+      "theme": "reaction",
+      "collection": "reaction",
+      "pack": "stonk-community-v1",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "path": "images/zyclops-stonk-explain-v11.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-stonk-explain-v11.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 289569,
+      "sha256": "3c721e3c8614cb78482ee7de53b4908e74a9f572db5a8b0ca0b76a6869544fa4",
+      "has_alpha": false,
+      "thumbnail_path": "thumbs/zyclops-stonk-explain-v11.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-stonk-explain-v11.jpg",
+      "captions": [
+        "You have his attention. Explain the pair.",
+        "You have his attention. Explain the pair.\n\n$ZYCL"
+      ],
+      "alt_text": "ZYCLOPS leans forward with folded arms, one skeptical gold eye and a raised gold brow. Text: EXPLAIN THE PAIR. Footer: ZYCLOPS · $ZYCL.",
+      "tags": [
+        "stonk",
+        "pair-anything",
+        "community-pack",
+        "questions",
+        "skeptical",
+        "reaction"
+      ],
+      "suggested_context": "Independent ZYCLOPS community artwork. Use for relevant Stonk conversations; no partnership, price or return claims.",
+      "suggested_cooldown_hours": 72,
+      "release": 11,
+      "style_version": "locked-face-modern-v10",
+      "topic": "explain"
+    },
+    {
+      "id": "zyclops-stonk-caption-template-v11",
+      "creative_id": "zyclops-stonk-caption-template",
+      "title": "Caption this pair",
+      "theme": "meme",
+      "collection": "meme",
+      "pack": "stonk-community-v1",
+      "media_type": "image",
+      "mime_type": "image/jpeg",
+      "path": "images/zyclops-stonk-caption-template-v11.jpg",
+      "url": "https://zyclops.xyz/media-vault/images/zyclops-stonk-caption-template-v11.jpg",
+      "width": 1200,
+      "height": 1200,
+      "bytes": 201027,
+      "sha256": "46d937deb8aabf7d5f38e8019957111c161190f48d07af25b85cb4a743dc22de",
+      "has_alpha": false,
+      "thumbnail_path": "thumbs/zyclops-stonk-caption-template-v11.jpg",
+      "thumbnail_url": "https://zyclops.xyz/media-vault/thumbs/zyclops-stonk-caption-template-v11.jpg",
+      "captions": [
+        "Add two things to the blank cards. Give the pair a headline.",
+        "Add two things to the blank cards. Give the pair a headline.\n\n$ZYCL"
+      ],
+      "alt_text": "A one-eyed ZYCLOPS shrugs beneath two completely blank cream cards outlined in gold. Empty space above is ready for a headline. The only text is the footer: ZYCLOPS · $ZYCL.",
+      "tags": [
+        "stonk",
+        "pair-anything",
+        "community-pack",
+        "template",
+        "blank",
+        "remix"
+      ],
+      "suggested_context": "Blank remix template. Add a headline and paired items before an automated post; users may share the blank as an explicit caption invitation.",
+      "suggested_cooldown_hours": 72,
+      "release": 11,
+      "style_version": "locked-face-modern-v10",
+      "topic": "caption-template",
+      "requires_caption": true
+    },
     {
       "id": "zyclops-gm-v10",
       "creative_id": "modern-gm",
@@ -1260,19 +1483,19 @@
     }
   ],
   "counts": {
-    "images": 38,
+    "images": 44,
     "videos": 0,
     "loops": 0,
     "webp_alternates": 0,
-    "memes": 24,
-    "reactions": 6,
+    "memes": 28,
+    "reactions": 8,
     "artwork": 4,
     "banners": 2,
     "brand": 2
   },
   "download": {
-    "path": "zyclops-media-pack-v10.zip",
-    "url": "https://zyclops.xyz/media-vault/zyclops-media-pack-v10.zip"
+    "path": "zyclops-media-pack-v11.zip",
+    "url": "https://zyclops.xyz/media-vault/zyclops-media-pack-v11.zip"
   },
   "project": {
     "name": "ZYCLOPS",
@@ -1310,13 +1533,26 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
-  "replaces_all_previous_assets": true,
-  "updated_at": "2026-09-08T23:33:06.544Z",
+  "replaces_all_previous_assets": false,
+  "updated_at": "2026-09-09T09:11:56.273886+00:00",
   "notes": [
-    "Full replacement of the previous visual identity.",
-    "All posting assets are static; legacy GIF and WebP loops are retired.",
-    "Refresh the manifest before selecting assets; old paths are not the current inventory."
+    "Volume 11 adds six independently created Stonk community files; all 38 approved volume-10 assets remain current.",
+    "All posting assets are static; legacy GIF and WebP loops remain retired.",
+    "Refresh the complete manifest before selecting assets. Skip requires_caption templates until captioned."
+  ],
+  "community_packs": [
+    {
+      "id": "stonk-community-v1",
+      "name": "The Pairing Department — ZYCLOPS community pack",
+      "filter_label": "Stonk pack",
+      "count": 6,
+      "gallery": "https://zyclops.xyz/media-vault/?pack=stonk#library",
+      "download_path": "zyclops-stonk-community-pack-v1.zip",
+      "download_url": "https://zyclops.xyz/media-vault/zyclops-stonk-community-pack-v1.zip",
+      "readme_path": "meta/STONK-PACK-README.md"
+    }
   ]
 }

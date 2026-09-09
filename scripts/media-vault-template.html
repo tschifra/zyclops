@@ -8,14 +8,14 @@
   <meta name="theme-color" content="#101110">
   <title>The Media Vault — ZYCLOPS</title>
   <link rel="icon" href="brand/zyclops-coin-v10.png">
-  <link rel="stylesheet" href="vault.css?v=10">
-  <script defer src="vault.js?v=10"></script>
+  <link rel="stylesheet" href="vault.css?v=@@VERSION@@">
+  <script defer src="vault.js?v=@@VERSION@@"></script>
 </head>
 <body>
   <a class="skip" href="#library">Skip to artwork</a>
   <header class="wrap topbar">
     <a class="wordmark" href="/" aria-label="ZYCLOPS homepage"><span class="eye-mark" aria-hidden="true"></span>ZYCLOPS.</a>
-    <span class="edition">Community files / Vol. 10</span>
+    <span class="edition">Community files / Vol. @@VERSION@@</span>
     <nav class="top-links" aria-label="Community"><a href="https://x.com/zyclopssol" target="_blank" rel="noopener noreferrer">X ↗</a><a href="https://t.me/zyclopscoin" target="_blank" rel="noopener noreferrer">The blind spot ↗</a></nav>
   </header>
   <main class="wrap">
@@ -24,11 +24,15 @@
         <div class="kicker">Declassified material</div>
         <h1 id="vault-title">SERIOUS FACE.<br><span>UNSERIOUS FILES.</span></h1>
         <p>$ZYCL on Solana. Memes, reactions and artwork from the blind spot. Take a file. Make it everyone’s problem.</p>
-        <div class="hero-actions"><a class="button" href="zyclops-media-pack-v10.zip" download>Download the full pack <span aria-hidden="true">↘</span></a><a class="quiet-link" href="#library">Find your reaction ↓</a></div>
+        <div class="hero-actions"><a class="button" href="zyclops-media-pack-v@@VERSION@@.zip" download>Download the full pack <span aria-hidden="true">↘</span></a><a class="quiet-link" href="#library">Find your reaction ↓</a></div>
       </div>
       <figure class="hero-art"><img src="images/zyclops-art-blind-spot-v10.jpg" width="1200" height="1200" alt="ZYCLOPS sits in the quiet corner of the blind spot with his coffee." fetchpriority="high"><figcaption><span>One eye. Zero visibility.</span><span>Seat saved. Allegedly.</span></figcaption></figure>
     </section>
-    <div class="inventory-strip"><span><strong>@@TOTAL@@</strong> files</span><span><strong>24</strong> memes</span><span><strong>6</strong> reactions</span><span class="motto">One eye. Endless situations.</span></div>
+    <div class="inventory-strip"><span><strong>@@TOTAL@@</strong> files</span><span><strong>@@MEMES@@</strong> memes &amp; templates</span><span><strong>@@REACTIONS@@</strong> reactions</span><span class="motto">One eye. Endless situations.</span></div>
+    <section class="pack-feature" aria-labelledby="pack-title">
+      <div><div class="kicker">New / six community files</div><h2 id="pack-title">THE PAIRING DEPARTMENT.</h2><p>Three pairing jokes. Two reactions. One blank template. Made by ZYCLOPS for the Stonk community. Add your caption and share your pair.</p><p class="pack-credit">Independent community artwork by ZYCLOPS.</p></div>
+      <div class="pack-actions"><a class="button" href="zyclops-stonk-community-pack-v1.zip" download>Get the Stonk pack ↘</a><a class="quiet-link" href="?pack=stonk#library">Browse the six files ↓</a></div>
+    </section>
     <section class="library" id="library" aria-labelledby="library-title">
       <div class="library-heading"><h2 id="library-title">Find your file.</h2><p id="result-count" aria-live="polite">@@TOTAL@@ files ready to share</p></div>
       <div class="controls" id="controls" hidden>

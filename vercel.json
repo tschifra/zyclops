@@ -41,52 +41,57 @@
   "redirects": [
     {
       "source": "/media-vault/zyclops-media-pack.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     },
     {
       "source": "/media-vault/zyclops-media-pack-v1.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     },
     {
       "source": "/media-vault/zyclops-media-pack-v2.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     },
     {
       "source": "/media-vault/zyclops-media-pack-v3.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     },
     {
       "source": "/media-vault/zyclops-media-pack-v4.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     },
     {
       "source": "/media-vault/zyclops-media-pack-v5.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     },
     {
       "source": "/media-vault/zyclops-media-pack-v6.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     },
     {
       "source": "/media-vault/zyclops-media-pack-v7.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     },
     {
       "source": "/media-vault/zyclops-media-pack-v8.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     },
     {
       "source": "/media-vault/zyclops-media-pack-v9.zip",
-      "destination": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
+      "permanent": false
+    },
+    {
+      "source": "/media-vault/zyclops-media-pack-v10.zip",
+      "destination": "/media-vault/zyclops-media-pack-v11.zip",
       "permanent": false
     }
   ]
